@@ -1,0 +1,142 @@
+Year,HouseHoldID,communityID,has_running_water,inhouse_shower_Bath,cooking_fuel_source,num_toilet,toilet_type_1,toilet_type_2,province,city,urban_nbs
+2011,104004114,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004109,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004116,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004123,1040041,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004104,1040041,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004102,1040041,1 Yes,3 No,6 crop residue/Wood burning,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004103,1040041,1 Yes,3 No,1 Coal,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004122,1040041,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004101,1040041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004119,1040041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004106,1040041,2 No,3 No,1 Coal,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004118,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004112,1040041,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004110,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004113,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004105,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004107,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004111,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004121,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004120,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004108,1040041,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004117,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004203,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004206,1040042,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004212,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004201,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004208,1040042,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004214,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004209,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004205,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004207,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004213,1040042,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004204,1040042,1 Yes,3 No,1 Coal,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004211,1040042,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004210,1040042,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004202,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004317,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004312,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004304,1040043,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004318,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004306,1040043,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004305,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004302,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004301,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004315,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004309,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004310,1040043,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004308,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004316,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004313,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004311,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004303,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2011,104004307,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041010,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041020,1040041,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041030,1040041,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041040,1040041,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041050,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041070,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041090,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041100,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041110,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041130,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,111.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041140,1040041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041160,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041170,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041180,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041230,1040041,1 Yes,3 No,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041240,1040041,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041250,1040041,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040041260,1040041,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040042020,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040042030,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040042040,1040042,1 Yes,3 No,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040042070,1040042,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040042110,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040042120,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040042140,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040042150,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,1040042160,1040042,1 Yes,2 Water heater installed by the household,5 Electric,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004317,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004312,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004304,1040043,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004318,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004306,1040043,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004305,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004302,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004301,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004315,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004309,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004310,1040043,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004308,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004316,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004313,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004311,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004303,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2013,104004307,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041010,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041020,1040041,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041030,1040041,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041040,1040041,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041050,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041070,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041090,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041100,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041110,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041130,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,111.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041140,1040041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041160,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041170,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041180,1040041,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041230,1040041,1 Yes,3 No,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041240,1040041,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041250,1040041,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040041260,1040041,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040042020,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040042030,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040042040,1040042,1 Yes,3 No,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040042070,1040042,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040042110,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040042120,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040042140,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040042150,1040042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,1040042160,1040042,1 Yes,2 Water heater installed by the household,5 Electric,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004317,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004312,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004304,1040043,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004318,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004306,1040043,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004305,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004302,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004301,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004315,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004309,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004310,1040043,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004308,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004316,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004313,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004311,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004303,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban
+2015,104004307,1040043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban

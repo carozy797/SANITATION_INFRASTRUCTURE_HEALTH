@@ -1,0 +1,7 @@
+,Independent Variable,Target Variable,Chi-Square,P-Value
+0,toilet_type_1,hyp,1.3396481620418306,0.24709602506933656
+1,toilet_type_1,mem_rel_dis,12.106171064060032,0.0005025522461503832
+2,toilet_type_1,rheumatism,21.696878801020716,3.193103938547887e-06
+3,toilet_type_1,lund_dis,1.4003570890608563,0.2366637914518346
+4,toilet_type_1,liver_dis,0.0,1.0
+5,toilet_type_1,stomach_dis,1.4476682757049033,0.228902466188854

@@ -1,0 +1,263 @@
+,Year,HouseHoldID,communityID,has_running_water,inhouse_shower_Bath,cooking_fuel_source,num_toilet,toilet_type_1,toilet_type_2,ID,province,city,urban_nbs
+0,2011,014031116,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+1,2011,014031105,0140311,1 Yes,2 Water heater installed by the household,1 Coal,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+2,2011,014031121,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+3,2011,014031119,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+4,2011,014031122,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+5,2011,014031103,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+6,2011,014031107,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+7,2011,014031101,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+8,2011,014031123,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+9,2011,014031112,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+10,2011,014031109,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+11,2011,014031108,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+12,2011,014031118,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+13,2011,014031113,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+14,2011,014031102,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+15,2011,014031120,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+16,2011,014031114,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+17,2011,014031110,0140311,1 Yes,,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+18,2011,014031111,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+19,2011,014031115,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+20,2011,014031117,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+21,2011,014031309,0140313,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+22,2011,014031313,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,1 Toilet without a seat,2 Toilet with a seat,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+23,2011,014031308,0140313,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+24,2011,014031303,0140313,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+25,2011,014031301,0140313,1 Yes,2 Water heater installed by the household,5 Electric,2.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+26,2011,014031312,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+27,2011,014031310,0140313,1 Yes,2 Water heater installed by the household,1 Coal,,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+28,2011,014031305,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,2 Toilet with a seat,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+29,2011,014031311,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+30,2011,014031306,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+31,2011,014031307,0140313,1 Yes,3 No,5 Electric,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+32,2011,014031304,0140313,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,3.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+33,2011,014051111,0140511,1 Yes,3 No,1 Coal,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+34,2011,014051118,0140511,1 Yes,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+35,2011,014051116,0140511,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+36,2011,014051101,0140511,1 Yes,2 Water heater installed by the household,5 Electric,2.0,1 Toilet without a seat,2 Toilet with a seat,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+37,2011,014051107,0140511,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+38,2011,014051108,0140511,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+39,2011,014051106,0140511,2 No,3 No,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+40,2011,014051104,0140511,2 No,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+41,2011,014051113,0140511,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+42,2011,014051109,0140511,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+43,2011,014051110,0140511,1 Yes,2 Water heater installed by the household,1 Coal,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+44,2011,014051114,0140511,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+45,2011,014051105,0140511,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+46,2011,014051103,0140511,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+47,2011,014051102,0140511,2 No,3 No,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+48,2011,014051117,0140511,2 No,3 No,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+49,2011,014051112,0140511,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+50,2011,014051204,0140512,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+51,2011,014051219,0140512,2 No,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+52,2011,014051226,0140512,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+53,2011,014051210,0140512,2 No,2 Water heater installed by the household,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+54,2011,014051221,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+55,2011,014051224,0140512,1 Yes,,,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+56,2011,014051203,0140512,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+57,2011,014051217,0140512,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+58,2011,014051211,0140512,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+59,2011,014051214,0140512,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+60,2011,014051206,0140512,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+61,2011,014051209,0140512,2 No,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+62,2011,014051225,0140512,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+63,2011,014051213,0140512,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,3.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+64,2011,014051208,0140512,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+65,2011,014051202,0140512,2 No,3 No,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+66,2011,014051215,0140512,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+67,2011,014051212,0140512,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+68,2011,014051222,0140512,1 Yes,3 No,5 Electric,1.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+69,2011,014051201,0140512,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+70,2011,014051205,0140512,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+71,2011,014051218,0140512,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+72,2011,014051216,0140512,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+73,2011,014051223,0140512,1 Yes,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+74,2011,014051207,0140512,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,3.0,1 Toilet without a seat,,,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+75,2013,0140311020,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031102002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+76,2013,0140311030,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031103001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+77,2013,0140311070,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031107002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+78,2013,0140311080,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031108001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+79,2013,0140311100,0140311,1 Yes,1 Hot water provided,2 Natural gas,1.0,1 Toilet without a seat,,014031110001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+80,2013,0140311120,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031112002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+81,2013,0140311130,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031113001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+82,2013,0140311140,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031114002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+83,2013,0140311150,0140311,1 Yes,2 Water heater installed by the household,7 Other,1.0,1 Toilet without a seat,,014031115001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+84,2013,0140311160,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031116001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+85,2013,0140311180,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031118001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+86,2013,0140311190,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,014031119002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+87,2013,0140311210,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031121002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+88,2013,0140311220,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031122001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+89,2013,0140311230,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031123001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+90,2013,0140311240,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031124001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+91,2013,0140311250,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031125001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+92,2013,0140311260,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031126001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+93,2013,0140311270,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,014031127002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+94,2013,0140311280,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031128001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+95,2013,0140311290,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031129001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+96,2013,0140311300,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031130002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+97,2013,0140311310,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031131001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+98,2013,0140311320,0140311,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031132002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+99,2013,0140313010,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,1 Toilet without a seat,,014031301002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+100,2013,0140313020,0140313,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014031302001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+101,2013,0140313030,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031303002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+102,2013,0140313040,0140313,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014031304002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+103,2013,0140313050,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031305001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+104,2013,0140313060,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,4.0,1 Toilet without a seat,,014031306002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+105,2013,0140313080,0140313,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014031308002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+106,2013,0140313090,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031309001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+107,2013,0140313100,0140313,1 Yes,2 Water heater installed by the household,5 Electric,2.0,1 Toilet without a seat,,014031310001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+108,2013,0140313110,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,014031311001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+109,2013,0140313140,0140313,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,014031314001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+110,2013,0140313160,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,22.0,1 Toilet without a seat,,014031316001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+111,2013,0140313180,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,3.0,1 Toilet without a seat,,014031318002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+112,2013,0140313200,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,1 Toilet without a seat,,014031320001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+113,2013,0140313210,0140313,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014031321001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+114,2013,0140511010,0140511,1 Yes,3 No,4 Liquefied Petroleum Gas,2.0,1 Toilet without a seat,,014051101001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+115,2013,0140511020,0140511,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,014051102002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+116,2013,0140511030,0140511,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,014051103001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+117,2013,0140511040,0140511,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051104001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+118,2013,0140511050,0140511,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,014051105001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+119,2013,0140511060,0140511,1 Yes,2 Water heater installed by the household,5 Electric,2.0,1 Toilet without a seat,,014051106001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+120,2013,0140511080,0140511,1 Yes,2 Water heater installed by the household,1 Coal,1.0,1 Toilet without a seat,,014051108002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+121,2013,0140511090,0140511,1 Yes,3 No,6 Crop residue/Wood burning,,1 Toilet without a seat,,014051109002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+122,2013,0140511100,0140511,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,014051110001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+123,2013,0140511110,0140511,1 Yes,3 No,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,,014051111002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+124,2013,0140511120,0140511,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051112002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+125,2013,0140511130,0140511,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051113001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+126,2013,0140511150,0140511,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,014051115002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+127,2013,0140511160,0140511,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,014051116002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+128,2013,0140511170,0140511,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,014051117001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+129,2013,0140511180,0140511,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,014051118001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+130,2013,0140511190,0140511,1 Yes,2 Water heater installed by the household,1 Coal,0.0,1 Toilet without a seat,,014051119001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+131,2013,0140511200,0140511,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,014051120002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+132,2013,0140511220,0140511,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,014051122001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+133,2013,0140511230,0140511,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,014051123001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+134,2013,0140511240,0140511,1 Yes,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,014051124001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+135,2013,0140511250,0140511,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,014051125001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+136,2013,0140512010,0140512,1 Yes,2 Water heater installed by the household,6 Crop residue/Wood burning,1.0,1 Toilet without a seat,,014051201001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+137,2013,0140512020,0140512,1 Yes,3 No,6 Crop residue/Wood burning,1.0,1 Toilet without a seat,,014051202001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+138,2013,0140512030,0140512,2 No,3 No,5 Electric,0.0,1 Toilet without a seat,,014051203001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+139,2013,0140512040,0140512,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,,014051204002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+140,2013,0140512050,0140512,1 Yes,2 Water heater installed by the household,6 Crop residue/Wood burning,3.0,1 Toilet without a seat,,014051205002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+141,2013,0140512060,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051206001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+142,2013,0140512070,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051207001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+143,2013,0140512080,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051208001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+144,2013,0140512090,0140512,1 Yes,2 Water heater installed by the household,5 Electric,2.0,1 Toilet without a seat,,014051209001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+145,2013,0140512100,0140512,1 Yes,2 Water heater installed by the household,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,014051210002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+146,2013,0140512110,0140512,1 Yes,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,014051211001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+147,2013,0140512120,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051212002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+148,2013,0140512130,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051213001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+149,2013,0140512140,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051214001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+150,2013,0140512160,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051216002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+151,2013,0140512170,0140512,1 Yes,3 No,6 Crop residue/Wood burning,1.0,1 Toilet without a seat,,014051217001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+152,2013,0140512180,0140512,1 Yes,2 Water heater installed by the household,5 Electric,2.0,1 Toilet without a seat,,014051218002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+153,2013,0140512190,0140512,1 Yes,2 Water heater installed by the household,5 Electric,3.0,1 Toilet without a seat,,014051219001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+154,2013,0140512200,0140512,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,3.0,1 Toilet without a seat,,014051220002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+155,2013,0140512210,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051221001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+156,2013,0140512220,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051222001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+157,2013,0140512230,0140512,1 Yes,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,014051223001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+158,2013,0140512250,0140512,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,014051225002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+159,2013,0140512260,0140512,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,014051226002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+160,2013,0140512270,0140512,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,014051227002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+161,2013,0140512280,0140512,1 Yes,2 Water heater installed by the household,5 Electric,1.0,1 Toilet without a seat,,014051228002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+162,2013,0140512300,0140512,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,,014051230001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+163,2015,0140311280,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031128001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+164,2015,0140311050,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031105001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+165,2015,0140311210,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031121001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+166,2015,0140311250,0140311,1 Yes,1 Hot Water Provided,2 Natural Gas,1.0,,2 Toilet with A Seat,014031125002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+167,2015,0140311310,0140311,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014031131001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+168,2015,0140311260,0140311,2 No,2 Water Heater Installed by The Household,7 Other,1.0,1 Toilet without A Seat,,014031126001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+169,2015,0140311300,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031130002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+170,2015,0140311220,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031122001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+171,2015,0140311070,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031107001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+172,2015,0140311290,0140311,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014031129001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+173,2015,0140311230,0140311,1 Yes,3.0,2 Natural Gas,1.0,1 Toilet without A Seat,,014031123001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+174,2015,0140311120,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031112002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+175,2015,0140311180,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031118001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+176,2015,0140311360,0140311,1 Yes,3.0,2 Natural Gas,1.0,1 Toilet without A Seat,,014031136001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+177,2015,0140311020,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031102001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+178,2015,0140311140,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031114001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+179,2015,0140311350,0140311,1 Yes,1 Hot Water Provided,2 Natural Gas,1.0,1 Toilet without A Seat,,014031135001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+180,2015,0140311110,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031111002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+181,2015,0140311150,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,014031115001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+182,2015,0140311370,0140311,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031137001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+183,2015,0140313190,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,2.0,1 Toilet without A Seat,2 Toilet with A Seat,014031319002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+184,2015,0140313320,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,3.0,1 Toilet without A Seat,,014031332001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+185,2015,0140313080,0140313,1 Yes,2 Water Heater Installed by The Household,7 Other,1.0,1 Toilet without A Seat,,014031308001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+186,2015,0140313140,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,2.0,1 Toilet without A Seat,,014031314001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+187,2015,0140313030,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031303002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+188,2015,0140313010,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031301001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+189,2015,0140313280,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031328002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+190,2015,0140313290,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,2.0,1 Toilet without A Seat,2 Toilet with A Seat,014031329002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+191,2015,0140313220,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,014031322001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+192,2015,0140313020,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031302001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+193,2015,0140313160,0140313,1 Yes,2 Water Heater Installed by The Household,5 Electric,23.0,1 Toilet without A Seat,,014031316002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+194,2015,0140313100,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,0.0,1 Toilet without A Seat,,014031310001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+195,2015,0140313050,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,2.0,1 Toilet without A Seat,2 Toilet with A Seat,014031305001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+196,2015,0140313111,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,014031311102,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+197,2015,0140313310,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,4.0,1 Toilet without A Seat,,014031331002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+198,2015,0140313330,0140313,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014031333001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+199,2015,0140313060,0140313,1 Yes,2 Water Heater Installed by The Household,5 Electric,4.0,1 Toilet without A Seat,,014031306002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+200,2015,0140313350,0140313,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,1.0,1 Toilet without A Seat,,014031335002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+201,2015,0140313300,0140313,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,1.0,1 Toilet without A Seat,,014031330001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+202,2015,0140313070,0140313,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014031307002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+203,2015,0140313040,0140313,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014031304001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+204,2015,0140313270,0140313,1 Yes,1 Hot Water Provided,5 Electric,1.0,,2 Toilet with A Seat,014031327001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+205,2015,0140313340,0140313,1 Yes,3.0,5 Electric,1.0,1 Toilet without A Seat,,014031334001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+206,2015,0140511110,0140511,1 Yes,3.0,2 Natural Gas,0.0,1 Toilet without A Seat,,014051111002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+207,2015,0140511250,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051125001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+208,2015,0140511160,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,0.0,1 Toilet without A Seat,,014051116002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+209,2015,0140511010,0140511,2 No,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,2.0,1 Toilet without A Seat,2 Toilet with A Seat,014051101001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+210,2015,0140511070,0140511,1 Yes,3.0,5 Electric,0.0,1 Toilet without A Seat,,014051107001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+211,2015,0140511080,0140511,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,0.0,1 Toilet without A Seat,,014051108002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+212,2015,0140511060,0140511,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,1.0,1 Toilet without A Seat,2 Toilet with A Seat,014051106001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+213,2015,0140511210,0140511,1 Yes,3.0,5 Electric,0.0,1 Toilet without A Seat,,014051121001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+214,2015,0140511270,0140511,1 Yes,3.0,5 Electric,0.0,1 Toilet without A Seat,,014051127001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+215,2015,0140511040,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,0.0,1 Toilet without A Seat,,014051104002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+216,2015,0140511130,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,0.0,1 Toilet without A Seat,,014051113001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+217,2015,0140511240,0140511,1 Yes,3.0,6 Crop Residue/Wood Burning,0.0,1 Toilet without A Seat,,014051124002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+218,2015,0140511090,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051109001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+219,2015,0140511100,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,0.0,1 Toilet without A Seat,,014051110002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+220,2015,0140511190,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051119002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+221,2015,0140511140,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,0.0,1 Toilet without A Seat,,014051114001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+222,2015,0140511260,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051126002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+223,2015,0140511230,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051123001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+224,2015,0140511150,0140511,1 Yes,3.0,5 Electric,0.0,1 Toilet without A Seat,,014051115002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+225,2015,0140511050,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,0.0,1 Toilet without A Seat,,014051105002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+226,2015,0140511030,0140511,1 Yes,3.0,7 Other,0.0,1 Toilet without A Seat,,014051103001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+227,2015,0140511280,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051128002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+228,2015,0140511200,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051120002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+229,2015,0140511170,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051117001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+230,2015,0140511120,0140511,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051112001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+231,2015,0140512040,0140512,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,0.0,1 Toilet without A Seat,,014051204002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+232,2015,0140512280,0140512,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,0.0,1 Toilet without A Seat,,014051228002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+233,2015,0140512190,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,3.0,1 Toilet without A Seat,,014051219001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+234,2015,0140512260,0140512,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,0.0,1 Toilet without A Seat,,014051226002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+235,2015,0140512100,0140512,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,0.0,1 Toilet without A Seat,,014051210002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+236,2015,0140512350,0140512,2 No,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,0.0,1 Toilet without A Seat,,014051235002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+237,2015,0140512210,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,2.0,1 Toilet without A Seat,,014051221001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+238,2015,0140512300,0140512,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,1 Toilet without A Seat,,014051230001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+239,2015,0140512200,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,3.0,1 Toilet without A Seat,,014051220002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+240,2015,0140512340,0140512,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,1.0,1 Toilet without A Seat,,014051234001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+241,2015,0140512310,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,,1 Toilet without A Seat,,014051231001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+242,2015,0140512110,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051211001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+243,2015,0140512140,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051214002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+244,2015,0140512060,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051206001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+245,2015,0140512090,0140512,1 Yes,3.0,5 Electric,0.0,1 Toilet without A Seat,,014051209001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+246,2015,0140512250,0140512,1 Yes,3.0,6 Crop Residue/Wood Burning,1.0,1 Toilet without A Seat,,014051225002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+247,2015,0140512130,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,3.0,1 Toilet without A Seat,,014051213001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+248,2015,0140512080,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051208002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+249,2015,0140512020,0140512,1 Yes,3.0,6 Crop Residue/Wood Burning,1.0,1 Toilet without A Seat,,014051202001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+250,2015,0140512150,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,,2 Toilet with A Seat,014051215001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+251,2015,0140512120,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,1 Toilet without A Seat,,014051212002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+252,2015,0140512220,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,0.0,1 Toilet without A Seat,,014051222001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+253,2015,0140512010,0140512,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,1.0,1 Toilet without A Seat,,014051201002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+254,2015,0140512320,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,0.0,1 Toilet without A Seat,,014051232002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+255,2015,0140512270,0140512,1 Yes,2 Water Heater Installed by The Household,7 Other,1.0,1 Toilet without A Seat,,014051227001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+256,2015,0140512050,0140512,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,2.0,1 Toilet without A Seat,,014051205002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+257,2015,0140512180,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,3.0,1 Toilet without A Seat,,014051218001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+258,2015,0140512330,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,,2 Toilet with A Seat,014051233001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+259,2015,0140512160,0140512,1 Yes,2 Water Heater Installed by The Household,5 Electric,1.0,,2 Toilet with A Seat,014051216002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+260,2015,0140512230,0140512,1 Yes,3.0,6 Crop Residue/Wood Burning,0.0,1 Toilet without A Seat,,014051223001,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban
+261,2015,0140512070,0140512,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,0.0,1 Toilet without A Seat,,014051207002,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban

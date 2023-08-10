@@ -1,0 +1,140 @@
+,Year,HouseHoldID,communityID,has_running_water,inhouse_shower_Bath,cooking_fuel_source,num_toilet,toilet_type_1,toilet_type_2,ID,province,city,urban_nbs
+0,2011,094004113,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+1,2011,094004103,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+2,2011,094004111,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+3,2011,094004105,0940041,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+4,2011,094004110,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+5,2011,094004115,0940041,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,,,±±¾©,±±¾©,Urban
+6,2011,094004108,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+7,2011,094004112,0940041,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+8,2011,094004106,0940041,1 Yes,3 No,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+9,2011,094004114,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+10,2011,094004118,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+11,2011,094004101,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+12,2011,094004104,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+13,2011,094004120,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+14,2011,094004121,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+15,2011,094004119,0940041,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+16,2011,094004122,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+17,2011,094004109,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,,±±¾©,±±¾©,Urban
+18,2011,094004116,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+19,2011,094004117,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+20,2011,094004107,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+21,2011,094004102,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+22,2011,094004219,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+23,2011,094004220,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+24,2011,094004210,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+25,2011,094004215,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+26,2011,094004205,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+27,2011,094004217,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,±±¾©,±±¾©,Urban
+28,2011,094004201,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+29,2011,094004207,0940042,1 Yes,1 Hot water provided,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+30,2011,094004209,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+31,2011,094004213,0940042,1 Yes,1 Hot water provided,2 Natural gas,2.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+32,2011,094004208,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+33,2011,094004218,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+34,2011,094004214,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+35,2011,094004216,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+36,2011,094004204,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+37,2011,094004212,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+38,2011,094004211,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+39,2011,094004222,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+40,2011,094004206,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+41,2011,094004221,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+42,2011,094004203,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+43,2011,094004202,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+44,2011,094004310,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+45,2011,094004301,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,,±±¾©,±±¾©,Urban
+46,2011,094004302,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+47,2011,094004308,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+48,2011,094004305,0940043,1 Yes,1 Hot water provided,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+49,2011,094004303,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+50,2011,094004307,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,2.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+51,2011,094004304,0940043,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+52,2011,094004306,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+53,2011,094004309,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,,±±¾©,±±¾©,Urban
+54,2013,0940041010,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,,094004101002,±±¾©,±±¾©,Urban
+55,2013,0940041030,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,,094004103001,±±¾©,±±¾©,Urban
+56,2013,0940041040,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,,094004104002,±±¾©,±±¾©,Urban
+57,2013,0940041050,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,,094004105001,±±¾©,±±¾©,Urban
+58,2013,0940041060,0940041,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,,094004106001,±±¾©,±±¾©,Urban
+59,2013,0940041070,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,,094004107001,±±¾©,±±¾©,Urban
+60,2013,0940041080,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004108001,±±¾©,±±¾©,Urban
+61,2013,0940041090,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,094004109001,±±¾©,±±¾©,Urban
+62,2013,0940041100,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,,094004110001,±±¾©,±±¾©,Urban
+63,2013,0940041110,0940041,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,,094004111002,±±¾©,±±¾©,Urban
+64,2013,0940041120,0940041,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,,094004112001,±±¾©,±±¾©,Urban
+65,2013,0940041130,0940041,1 Yes,2 Water heater installed by the household,1 Coal,0.0,1 Toilet without a seat,2 Toilet with a seat,094004113002,±±¾©,±±¾©,Urban
+66,2013,0940041150,0940041,1 Yes,3 No,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,,094004115002,±±¾©,±±¾©,Urban
+67,2013,0940041160,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004116002,±±¾©,±±¾©,Urban
+68,2013,0940041170,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,094004117002,±±¾©,±±¾©,Urban
+69,2013,0940041180,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,,094004118001,±±¾©,±±¾©,Urban
+70,2013,0940041190,0940041,1 Yes,2 Water heater installed by the household,5 Electric,0.0,1 Toilet without a seat,,094004119002,±±¾©,±±¾©,Urban
+71,2013,0940041200,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,2 Toilet with a seat,094004120002,±±¾©,±±¾©,Urban
+72,2013,0940041210,0940041,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,094004121001,±±¾©,±±¾©,Urban
+73,2013,0940041220,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004122002,±±¾©,±±¾©,Urban
+74,2013,0940041230,0940041,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,,094004123001,±±¾©,±±¾©,Urban
+75,2013,0940041260,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,1 Toilet without a seat,,094004126001,±±¾©,±±¾©,Urban
+76,2013,0940041280,0940041,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,1 Toilet without a seat,2 Toilet with a seat,094004128001,±±¾©,±±¾©,Urban
+77,2013,0940042010,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004201001,±±¾©,±±¾©,Urban
+78,2013,0940042040,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004204002,±±¾©,±±¾©,Urban
+79,2013,0940042060,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004206002,±±¾©,±±¾©,Urban
+80,2013,0940042080,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004208002,±±¾©,±±¾©,Urban
+81,2013,0940042090,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004209002,±±¾©,±±¾©,Urban
+82,2013,0940042100,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004210001,±±¾©,±±¾©,Urban
+83,2013,0940042120,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004212002,±±¾©,±±¾©,Urban
+84,2013,0940042130,0940042,1 Yes,1 Hot water provided,2 Natural gas,2.0,,2 Toilet with a seat,094004213001,±±¾©,±±¾©,Urban
+85,2013,0940042140,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004214002,±±¾©,±±¾©,Urban
+86,2013,0940042150,0940042,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,094004215001,±±¾©,±±¾©,Urban
+87,2013,0940042160,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004216001,±±¾©,±±¾©,Urban
+88,2013,0940042170,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004217001,±±¾©,±±¾©,Urban
+89,2013,0940042190,0940042,1 Yes,3 No,2 Natural gas,1.0,,2 Toilet with a seat,094004219001,±±¾©,±±¾©,Urban
+90,2013,0940042200,0940042,1 Yes,1 Hot water provided,2 Natural gas,1.0,1 Toilet without a seat,,094004220002,±±¾©,±±¾©,Urban
+91,2013,0940042220,0940042,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,094004222001,±±¾©,±±¾©,Urban
+92,2013,0940042230,0940042,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004223002,±±¾©,±±¾©,Urban
+93,2013,0940043010,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004301003,±±¾©,±±¾©,Urban
+94,2013,0940043020,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004302002,±±¾©,±±¾©,Urban
+95,2013,0940043030,0940043,1 Yes,1 Hot water provided,2 Natural gas,2.0,,2 Toilet with a seat,094004303001,±±¾©,±±¾©,Urban
+96,2013,0940043060,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004306001,±±¾©,±±¾©,Urban
+97,2013,0940043080,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004308001,±±¾©,±±¾©,Urban
+98,2013,0940043090,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004309001,±±¾©,±±¾©,Urban
+99,2013,0940043100,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,0.0,,2 Toilet with a seat,094004310002,±±¾©,±±¾©,Urban
+100,2013,0940043110,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004311001,±±¾©,±±¾©,Urban
+101,2013,0940043120,0940043,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,094004312002,±±¾©,±±¾©,Urban
+102,2015,0940041260,0940041,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,0.0,1 Toilet without A Seat,,094004126002,±±¾©,±±¾©,Urban
+103,2015,0940041030,0940041,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with A Seat,094004103001,±±¾©,±±¾©,Urban
+104,2015,0940041110,0940041,1 Yes,3.0,4 Liquefied Petroleum Gas,0.0,1 Toilet without A Seat,,094004111001,±±¾©,±±¾©,Urban
+105,2015,0940041100,0940041,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,0.0,1 Toilet without A Seat,,094004110001,±±¾©,±±¾©,Urban
+106,2015,0940041080,0940041,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,0.0,1 Toilet without A Seat,,094004108001,±±¾©,±±¾©,Urban
+107,2015,0940041120,0940041,1 Yes,3.0,2 Natural Gas,0.0,1 Toilet without A Seat,,094004112001,±±¾©,±±¾©,Urban
+108,2015,0940041060,0940041,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004106001,±±¾©,±±¾©,Urban
+109,2015,0940041140,0940041,1 Yes,2 Water Heater Installed by The Household,5 Electric,0.0,1 Toilet without A Seat,,094004114001,±±¾©,±±¾©,Urban
+110,2015,0940041180,0940041,1 Yes,2 Water Heater Installed by The Household,5 Electric,0.0,1 Toilet without A Seat,,094004118001,±±¾©,±±¾©,Urban
+111,2015,0940041010,0940041,1 Yes,3.0,4 Liquefied Petroleum Gas,1.0,1 Toilet without A Seat,,094004101002,±±¾©,±±¾©,Urban
+112,2015,0940041040,0940041,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004104002,±±¾©,±±¾©,Urban
+113,2015,0940041190,0940041,1 Yes,1 Hot Water Provided,4 Liquefied Petroleum Gas,0.0,1 Toilet without A Seat,,094004119002,±±¾©,±±¾©,Urban
+114,2015,0940041220,0940041,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with A Seat,094004122002,±±¾©,±±¾©,Urban
+115,2015,0940041160,0940041,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,0.0,1 Toilet without A Seat,,094004116002,±±¾©,±±¾©,Urban
+116,2015,0940041170,0940041,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004117001,±±¾©,±±¾©,Urban
+117,2015,0940041070,0940041,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,0.0,1 Toilet without A Seat,,094004107001,±±¾©,±±¾©,Urban
+118,2015,0940042190,0940042,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004219001,±±¾©,±±¾©,Urban
+119,2015,0940042200,0940042,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004220002,±±¾©,±±¾©,Urban
+120,2015,0940042150,0940042,1 Yes,3.0,2 Natural Gas,1.0,,2 Toilet with A Seat,094004215002,±±¾©,±±¾©,Urban
+121,2015,0940042170,0940042,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004217001,±±¾©,±±¾©,Urban
+122,2015,0940042010,0940042,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004201001,±±¾©,±±¾©,Urban
+123,2015,0940042130,0940042,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,2.0,,2 Toilet with A Seat,094004213001,±±¾©,±±¾©,Urban
+124,2015,0940042230,0940042,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004223001,±±¾©,±±¾©,Urban
+125,2015,0940042250,0940042,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004225001,±±¾©,±±¾©,Urban
+126,2015,0940042160,0940042,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004216001,±±¾©,±±¾©,Urban
+127,2015,0940042120,0940042,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004212002,±±¾©,±±¾©,Urban
+128,2015,0940043100,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004310001,±±¾©,±±¾©,Urban
+129,2015,0940043130,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004313001,±±¾©,±±¾©,Urban
+130,2015,0940043170,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004317001,±±¾©,±±¾©,Urban
+131,2015,0940043160,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004316001,±±¾©,±±¾©,Urban
+132,2015,0940043080,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004308001,±±¾©,±±¾©,Urban
+133,2015,0940043030,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004303001,±±¾©,±±¾©,Urban
+134,2015,0940043070,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,2.0,,2 Toilet with A Seat,094004307001,±±¾©,±±¾©,Urban
+135,2015,0940043190,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004319001,±±¾©,±±¾©,Urban
+136,2015,0940043200,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004320002,±±¾©,±±¾©,Urban
+137,2015,0940043180,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004318001,±±¾©,±±¾©,Urban
+138,2015,0940043110,0940043,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,1.0,,2 Toilet with A Seat,094004311002,±±¾©,±±¾©,Urban
