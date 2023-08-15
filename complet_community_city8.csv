@@ -1,3 +1,3 @@
-,Year,communityID,main_toilet_type,sewage_sys,road_type,province,city,urban_nbs
-0,2011,1082592,4 Outside public toilet without water,2 No,3 Sand-stone road,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban
-1,2011,1082593,4 Outside public toilet without water,1 Yes,3 Sand-stone road,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban
+,Year,communityID,main_toilet_type,sewage_sys,waste_management,road_type,province,city,urban_nbs
+0,2011,1082592,4 Outside public toilet without water,2 No,1 Moved away by truck,3 Sand-stone road,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban
+1,2011,1082593,4 Outside public toilet without water,1 Yes,3 Burn away,3 Sand-stone road,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban

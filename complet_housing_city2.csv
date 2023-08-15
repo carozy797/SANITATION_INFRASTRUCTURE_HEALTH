@@ -1,0 +1,90 @@
+Year,HouseHoldID,communityID,has_running_water,inhouse_shower_Bath,cooking_fuel_source,province,city,urban_nbs
+2011,345233305,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233315,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233310,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233301,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233311,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233308,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233309,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233306,3452333,1 Yes,2 Water heater installed by the household,1 Coal,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233302,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233307,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233312,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233303,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233304,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233314,3452333,2 No,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,345233313,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763302,3477633,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763304,3477633,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763312,3477633,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763303,3477633,1 Yes,3 No,1 Coal,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763308,3477633,1 Yes,2 Water heater installed by the household,1 Coal,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763305,3477633,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763301,3477633,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763309,3477633,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763306,3477633,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763311,3477633,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763310,3477633,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2011,347763307,3477633,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333010,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333020,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333030,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333040,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333050,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333060,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333070,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333080,3452333,1 Yes,3 No,1 Coal,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333100,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333110,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333120,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333130,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333160,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333170,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333180,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333200,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333210,3452333,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333220,3452333,1 Yes,2 Water heater installed by the household,1 Coal,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3452333230,3452333,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3477633010,3477633,1 Yes,3 No,2 Natural gas,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3477633020,3477633,1 Yes,3 No,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3477633060,3477633,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3477633080,3477633,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3477633100,3477633,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3477633110,3477633,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3477633130,3477633,1 Yes,2 Water heater installed by the household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2013,3477633140,3477633,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333050,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333170,3452333,1 Yes,3.0,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333280,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333010,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333110,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333080,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333250,3452333,1 Yes,3.0,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333090,3452333,1 Yes,3.0,2 Natural Gas,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333060,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333020,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333240,3452333,1 Yes,3.0,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333070,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333200,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333120,3452333,1 Yes,3.0,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333160,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333030,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333040,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333230,3452333,1 Yes,3.0,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333260,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333180,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333140,3452333,1 Yes,3.0,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333130,3452333,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3452333220,3452333,1 Yes,3.0,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633020,3477633,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633040,3477633,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633120,3477633,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633030,3477633,1 Yes,1 Hot Water Provided,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633050,3477633,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633140,3477633,1 Yes,2 Water Heater Installed by The Household,7 Other,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633010,3477633,1 Yes,3.0,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633150,3477633,1 Yes,2 Water Heater Installed by The Household,7 Other,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633060,3477633,1 Yes,3.0,7 Other,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633130,3477633,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633110,3477633,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban
+2015,3477633070,3477633,1 Yes,2 Water Heater Installed by The Household,5 Electric,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban

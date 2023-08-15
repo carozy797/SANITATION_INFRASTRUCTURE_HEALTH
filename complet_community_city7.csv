@@ -1,3 +1,3 @@
-,Year,communityID,main_toilet_type,sewage_sys,road_type,province,city,urban_nbs
-0,2011,0896762,3 Outside toilet with water,1 Yes,1 Paved road,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban
-1,2011,0896763,5 Open-air,1 Yes,1 Paved road,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban
+,Year,communityID,main_toilet_type,sewage_sys,waste_management,road_type,province,city,urban_nbs
+0,2011,0896762,3 Outside toilet with water,1 Yes,1 Moved away by truck,1 Paved road,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban
+1,2011,0896763,5 Open-air,1 Yes,1 Moved away by truck,1 Paved road,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban

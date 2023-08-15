@@ -1,140 +1,142 @@
-Year,HouseHoldID,communityID,has_running_water,inhouse_shower_Bath,cooking_fuel_source,num_toilet,toilet_type_1,toilet_type_2,province,city,urban_nbs
-2011,105381103,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381104,1053811,1 Yes,3 No,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381101,1053811,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381115,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381108,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381111,1053811,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381107,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381110,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381114,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381109,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381112,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381102,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381106,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381105,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381113,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381326,1053813,1 Yes,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381315,1053813,1 Yes,3 No,1 Coal,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381314,1053813,1 Yes,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381302,1053813,1 Yes,1 Hot water provided,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381324,1053813,1 Yes,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381316,1053813,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381307,1053813,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381304,1053813,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381308,1053813,2 No,3 No,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381318,1053813,1 Yes,3 No,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381321,1053813,1 Yes,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381311,1053813,1 Yes,3 No,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381319,1053813,1 Yes,3 No,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381301,1053813,1 Yes,3 No,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381309,1053813,1 Yes,3 No,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381325,1053813,2 No,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381312,1053813,2 No,3 No,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381310,1053813,1 Yes,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381305,1053813,2 No,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381306,1053813,2 No,3 No,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381322,1053813,1 Yes,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381323,1053813,2 No,3 No,6 crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381317,1053813,2 No,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381313,1053813,2 No,2 Water heater installed by the household,1 Coal,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381303,1053813,2 No,3 No,6 crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2011,105381320,1053813,2 No,3 No,1 Coal,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811010,1053811,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811020,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811030,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811050,1053811,1 Yes,3 No,1 Coal,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811060,1053811,1 Yes,1 Hot water provided,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811080,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811090,1053811,1 Yes,3 No,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811100,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811110,1053811,1 Yes,3 No,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811120,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811130,1053811,1 Yes,1 Hot water provided,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811140,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811150,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811160,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811170,1053811,1 Yes,3 No,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811190,1053811,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811210,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811220,1053811,1 Yes,1 Hot water provided,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811240,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053811260,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813010,1053813,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813020,1053813,2 No,3 No,6 Crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813030,1053813,2 No,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813040,1053813,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813050,1053813,2 No,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813060,1053813,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813070,1053813,1 Yes,3 No,5 Electric,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813080,1053813,2 No,3 No,1 Coal,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813090,1053813,1 Yes,3 No,1 Coal,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813100,1053813,1 Yes,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813110,1053813,1 Yes,3 No,6 Crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813120,1053813,2 No,3 No,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813130,1053813,2 No,2 Water heater installed by the household,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813140,1053813,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813150,1053813,1 Yes,3 No,1 Coal,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813170,1053813,2 No,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813180,1053813,1 Yes,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813190,1053813,1 Yes,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813200,1053813,2 No,3 No,1 Coal,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813210,1053813,1 Yes,3 No,1 Coal,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813220,1053813,2 No,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813230,1053813,2 No,3 No,2 Natural gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813240,1053813,2 No,3 No,6 Crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813250,1053813,2 No,2 Water heater installed by the household,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813260,1053813,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813270,1053813,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813280,1053813,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813290,1053813,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2013,1053813300,1053813,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811010,1053811,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811020,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,2.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811030,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811050,1053811,1 Yes,3 No,1 Coal,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811060,1053811,1 Yes,1 Hot water provided,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811080,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811090,1053811,1 Yes,3 No,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811100,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811110,1053811,1 Yes,3 No,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811120,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811130,1053811,1 Yes,1 Hot water provided,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811140,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811150,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811160,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811170,1053811,1 Yes,3 No,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811190,1053811,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811210,1053811,1 Yes,2 Water heater installed by the household,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811220,1053811,1 Yes,1 Hot water provided,5 Electric,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811240,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053811260,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813010,1053813,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813020,1053813,2 No,3 No,6 Crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813030,1053813,2 No,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813040,1053813,1 Yes,2 Water heater installed by the household,2 Natural gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813050,1053813,2 No,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813060,1053813,1 Yes,3 No,2 Natural gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813070,1053813,1 Yes,3 No,5 Electric,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813080,1053813,2 No,3 No,1 Coal,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813090,1053813,1 Yes,3 No,1 Coal,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813100,1053813,1 Yes,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813110,1053813,1 Yes,3 No,6 Crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813120,1053813,2 No,3 No,4 Liquefied Petroleum Gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813130,1053813,2 No,2 Water heater installed by the household,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813140,1053813,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813150,1053813,1 Yes,3 No,1 Coal,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813170,1053813,2 No,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813180,1053813,1 Yes,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813190,1053813,1 Yes,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813200,1053813,2 No,3 No,1 Coal,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813210,1053813,1 Yes,3 No,1 Coal,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813220,1053813,2 No,3 No,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813230,1053813,2 No,3 No,2 Natural gas,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813240,1053813,2 No,3 No,6 Crop residue/Wood burning,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813250,1053813,2 No,2 Water heater installed by the household,6 Crop residue/Wood burning,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813260,1053813,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813270,1053813,1 Yes,3 No,4 Liquefied Petroleum Gas,1.0,,2 Toilet with a seat,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813280,1053813,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813290,1053813,1 Yes,3 No,5 Electric,0.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
-2015,1053813300,1053813,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,1.0,1 Toilet without a seat,,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+Year,HouseHoldID,communityID,has_running_water,inhouse_shower_Bath,cooking_fuel_source,province,city,urban_nbs
+2011,105381326,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381315,1053813,1 Yes,3 No,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381314,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381302,1053813,1 Yes,1 Hot water provided,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381324,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381316,1053813,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381307,1053813,1 Yes,3 No,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381304,1053813,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381308,1053813,2 No,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381318,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381321,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381311,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381319,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381301,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381309,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381325,1053813,2 No,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381312,1053813,2 No,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381310,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381305,1053813,2 No,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381306,1053813,2 No,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381322,1053813,1 Yes,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381323,1053813,2 No,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381317,1053813,2 No,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381313,1053813,2 No,2 Water heater installed by the household,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381303,1053813,2 No,3 No,6 crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381320,1053813,2 No,3 No,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381103,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381104,1053811,1 Yes,3 No,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381101,1053811,1 Yes,3 No,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381115,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381108,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381111,1053811,1 Yes,3 No,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381107,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381110,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381114,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381109,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381112,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381102,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381106,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381105,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2011,105381113,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813010,1053813,1 Yes,3 No,2 Natural gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813020,1053813,2 No,3 No,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813030,1053813,2 No,3 No,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813040,1053813,1 Yes,2 Water heater installed by the household,2 Natural gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813050,1053813,2 No,3 No,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813060,1053813,1 Yes,3 No,2 Natural gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813070,1053813,1 Yes,3 No,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813080,1053813,2 No,3 No,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813090,1053813,1 Yes,3 No,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813100,1053813,1 Yes,3 No,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813110,1053813,1 Yes,3 No,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813120,1053813,2 No,3 No,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813130,1053813,2 No,2 Water heater installed by the household,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813140,1053813,1 Yes,3 No,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813150,1053813,1 Yes,3 No,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813170,1053813,2 No,3 No,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813180,1053813,1 Yes,3 No,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813190,1053813,1 Yes,3 No,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813200,1053813,2 No,3 No,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813210,1053813,1 Yes,3 No,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813220,1053813,2 No,3 No,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813230,1053813,2 No,3 No,2 Natural gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813240,1053813,2 No,3 No,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813250,1053813,2 No,2 Water heater installed by the household,6 Crop residue/Wood burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813260,1053813,1 Yes,3 No,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813270,1053813,1 Yes,3 No,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813280,1053813,1 Yes,3 No,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813290,1053813,1 Yes,3 No,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053813300,1053813,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811010,1053811,1 Yes,3 No,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811020,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811030,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811050,1053811,1 Yes,3 No,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811060,1053811,1 Yes,1 Hot water provided,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811080,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811090,1053811,1 Yes,3 No,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811100,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811110,1053811,1 Yes,3 No,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811120,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811130,1053811,1 Yes,1 Hot water provided,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811140,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811150,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811160,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811170,1053811,1 Yes,3 No,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811190,1053811,1 Yes,2 Water heater installed by the household,2 Natural gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811210,1053811,1 Yes,2 Water heater installed by the household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811220,1053811,1 Yes,1 Hot water provided,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811240,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2013,1053811260,1053811,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813260,1053813,1 Yes,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813150,1053813,1 Yes,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813140,1053813,1 Yes,3.0,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813020,1053813,1 Yes,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813240,1053813,2 No,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813320,1053813,2 No,3.0,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813360,1053813,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813370,1053813,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813040,1053813,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813080,1053813,2 No,3.0,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813210,1053813,1 Yes,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813110,1053813,1 Yes,3.0,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813190,1053813,1 Yes,3.0,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813010,1053813,1 Yes,3.0,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813290,1053813,1 Yes,3.0,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813280,1053813,1 Yes,3.0,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813090,1053813,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813250,1053813,1 Yes,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813120,1053813,1 Yes,3.0,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813330,1053813,1 Yes,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813300,1053813,1 Yes,2 Water Heater Installed by The Household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813100,1053813,1 Yes,3.0,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813350,1053813,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813050,1053813,1 Yes,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813060,1053813,1 Yes,3.0,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813220,1053813,1 Yes,3.0,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813230,1053813,1 Yes,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813170,1053813,1 Yes,3.0,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813130,1053813,1 Yes,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813030,1053813,1 Yes,3.0,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053813200,1053813,1 Yes,3.0,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811310,1053811,1 Yes,2 Water Heater Installed by The Household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811210,1053811,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811010,1053811,1 Yes,3.0,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811150,1053811,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811170,1053811,1 Yes,3.0,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811080,1053811,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811110,1053811,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811240,1053811,1 Yes,2 Water Heater Installed by The Household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811160,1053811,1 Yes,1 Hot Water Provided,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811070,1053811,1 Yes,2 Water Heater Installed by The Household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811100,1053811,1 Yes,2 Water Heater Installed by The Household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811290,1053811,2 No,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811140,1053811,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811090,1053811,1 Yes,2 Water Heater Installed by The Household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811120,1053811,1 Yes,2 Water Heater Installed by The Household,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811020,1053811,1 Yes,3.0,1 Coal,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811060,1053811,1 Yes,1 Hot Water Provided,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811050,1053811,1 Yes,3.0,6 Crop Residue/Wood Burning,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811300,1053811,1 Yes,3.0,2 Natural Gas,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
+2015,1053811130,1053811,1 Yes,1 Hot Water Provided,5 Electric,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban
