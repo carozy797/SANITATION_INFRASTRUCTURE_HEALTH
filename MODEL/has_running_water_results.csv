@@ -1,7 +1,0 @@
-,Independent Variable,Target Variable,Chi-Square,P-Value
-0,has_running_water,hyp,10.24284677758114,0.0013721566040518064
-1,has_running_water,mem_rel_dis,9.069766167069462,0.00259870298298179
-2,has_running_water,rheumatism,9.132633610686662,0.0025109001453955736
-3,has_running_water,lund_dis,18.36191007431905,1.8267349366514786e-05
-4,has_running_water,liver_dis,10.241302398917135,0.001373305899446695
-5,has_running_water,stomach_dis,6.321797623195216,0.0119262665692938

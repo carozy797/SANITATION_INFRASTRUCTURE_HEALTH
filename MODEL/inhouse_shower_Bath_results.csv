@@ -1,7 +1,0 @@
-,Independent Variable,Target Variable,Chi-Square,P-Value
-0,inhouse_shower_Bath,hyp,26.33540537212011,2.707938635327939e-05
-1,inhouse_shower_Bath,mem_rel_dis,24.247113696775166,7.1261952367086e-05
-2,inhouse_shower_Bath,rheumatism,48.71303256347097,6.701761469533661e-10
-3,inhouse_shower_Bath,lund_dis,31.752352989555945,2.149503780478493e-06
-4,inhouse_shower_Bath,liver_dis,5.625433020736324,0.2289218544881796
-5,inhouse_shower_Bath,stomach_dis,10.089319814214788,0.03894968146215707

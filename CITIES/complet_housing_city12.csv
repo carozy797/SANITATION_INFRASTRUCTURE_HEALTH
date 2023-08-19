@@ -1,0 +1,319 @@
+Year,HouseHoldID,communityID,has_running_water,inhouse_shower_Bath,cooking_fuel_source,province,city,urban_nbs
+2011,054054106,0540541,1 Yes,3 No,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054104,0540541,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054117,0540541,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054116,0540541,1 Yes,2 Water heater installed by the household,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054109,0540541,2 No,3 No,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054112,0540541,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054107,0540541,2 No,3 No,3 Marsh gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054101,0540541,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054113,0540541,2 No,3 No,3 Marsh gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054114,0540541,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054119,0540541,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054122,0540541,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054111,0540541,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054123,0540541,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054102,0540541,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054121,0540541,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054110,0540541,2 No,3 No,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054120,0540541,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054103,0540541,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054115,0540541,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054108,0540541,2 No,2 Water heater installed by the household,3 Marsh gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054118,0540541,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054228,0540542,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054202,0540542,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054216,0540542,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054232,0540542,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054231,0540542,1 Yes,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054207,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054214,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054225,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054222,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054201,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054219,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054213,0540542,1 Yes,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054203,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054210,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054230,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054229,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054221,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054224,0540542,1 Yes,3 No,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054215,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054211,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054209,0540542,1 Yes,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054227,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054220,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054223,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054212,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054218,0540542,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054226,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054206,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054204,0540542,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054208,0540542,1 Yes,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054205,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054217,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054308,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054323,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054314,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054317,0540543,2 No,2 Water heater installed by the household,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054309,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054306,0540543,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054310,0540543,1 Yes,2 Water heater installed by the household,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054311,0540543,2 No,2 Water heater installed by the household,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054316,0540543,1 Yes,3 No,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054319,0540543,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054302,0540543,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054321,0540543,2 No,3 No,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054305,0540543,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054329,0540543,2 No,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054327,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054307,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054304,0540543,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054315,0540543,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054318,0540543,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054301,0540543,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054330,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054322,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054331,0540543,2 No,1 Hot water provided,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054326,0540543,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054320,0540543,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054325,0540543,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054312,0540543,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054324,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054313,0540543,2 No,3 No,6 crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054328,0540543,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054332,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2011,054054303,0540543,1 Yes,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541020,0540541,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541030,0540541,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541040,0540541,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541050,0540541,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541060,0540541,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541070,0540541,2 No,3 No,3 Marsh gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541080,0540541,2 No,2 Water heater installed by the household,3 Marsh gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541090,0540541,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541100,0540541,2 No,3 No,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541110,0540541,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541120,0540541,2 No,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541130,0540541,2 No,3 No,3 Marsh gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541140,0540541,2 No,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541150,0540541,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541160,0540541,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541170,0540541,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541180,0540541,2 No,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541190,0540541,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541200,0540541,1 Yes,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541210,0540541,1 Yes,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541220,0540541,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541230,0540541,1 Yes,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541240,0540541,1 Yes,3 No,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541250,0540541,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541260,0540541,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540541270,0540541,2 No,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542010,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542020,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542030,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542040,0540542,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542050,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542060,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542070,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542080,0540542,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542090,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542100,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542110,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542120,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542130,0540542,2 No,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542140,0540542,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542150,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542160,0540542,1 Yes,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542170,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542180,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542190,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542200,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542210,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542220,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542230,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542240,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542250,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542260,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542270,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542280,0540542,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542290,0540542,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542300,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542310,0540542,1 Yes,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542320,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542330,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542340,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542350,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542360,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542370,0540542,1 Yes,3 No,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542380,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542390,0540542,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542400,0540542,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542410,0540542,1 Yes,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542420,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542430,0540542,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540542440,0540542,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543010,0540543,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543020,0540543,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543030,0540543,1 Yes,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543040,0540543,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543060,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543070,0540543,1 Yes,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543080,0540543,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543090,0540543,1 Yes,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543100,0540543,2 No,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543110,0540543,1 Yes,3 No,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543120,0540543,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543130,0540543,2 No,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543140,0540543,2 No,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543160,0540543,1 Yes,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543170,0540543,2 No,2 Water heater installed by the household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543180,0540543,2 No,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543190,0540543,1 Yes,3 No,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543200,0540543,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543220,0540543,1 Yes,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543230,0540543,2 No,3 No,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543240,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543250,0540543,2 No,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543260,0540543,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543270,0540543,2 No,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543280,0540543,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543290,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543300,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543310,0540543,2 No,3 No,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543320,0540543,1 Yes,3 No,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543330,0540543,2 No,3 No,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543340,0540543,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543350,0540543,1 Yes,2 Water heater installed by the household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543360,0540543,2 No,2 Water heater installed by the household,6 Crop residue/Wood burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543370,0540543,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2013,0540543380,0540543,1 Yes,2 Water heater installed by the household,2 Natural gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541280,0540541,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541260,0540541,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541060,0540541,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541240,0540541,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541040,0540541,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541290,0540541,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541170,0540541,2 No,3.0,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541050,0540541,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541160,0540541,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541090,0540541,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541120,0540541,2 No,3.0,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541070,0540541,2 No,3.0,3 Marsh Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541010,0540541,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541130,0540541,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541140,0540541,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541190,0540541,2 No,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541310,0540541,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541220,0540541,2 No,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541250,0540541,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541320,0540541,2 No,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541110,0540541,2 No,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541230,0540541,2 No,3.0,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541020,0540541,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541300,0540541,2 No,3.0,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541210,0540541,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541100,0540541,2 No,3.0,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541200,0540541,2 No,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541030,0540541,2 No,3.0,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541270,0540541,2 No,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541150,0540541,2 No,3.0,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541080,0540541,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540541180,0540541,1 Yes,3.0,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542280,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542500,0540542,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542490,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542380,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542510,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542470,0540542,1 Yes,1 Hot Water Provided,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542020,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542160,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542320,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542310,0540542,1 Yes,3.0,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542070,0540542,1 Yes,3.0,,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542450,0540542,1 Yes,1 Hot Water Provided,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542140,0540542,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542250,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542430,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542220,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542010,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542190,0540542,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542130,0540542,1 Yes,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542410,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542030,0540542,1 Yes,1 Hot Water Provided,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542100,0540542,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542300,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542480,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542290,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542440,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542210,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542240,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542370,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542150,0540542,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542330,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542110,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542390,0540542,1 Yes,1 Hot Water Provided,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542090,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542270,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542520,0540542,1 Yes,3.0,7 Other,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542400,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542460,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542200,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542230,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542530,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542360,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542120,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542180,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542540,0540542,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542350,0540542,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542420,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542260,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542060,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542040,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542080,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542050,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542340,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542550,0540542,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540542170,0540542,1 Yes,1 Hot Water Provided,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543080,0540543,2 No,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543230,0540543,2 No,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543140,0540543,2 No,3.0,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543170,0540543,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543090,0540543,2 No,3.0,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543091,0540543,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543060,0540543,2 No,3.0,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543100,0540543,2 No,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543410,0540543,2 No,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543110,0540543,1 Yes,3.0,1 Coal,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543160,0540543,2 No,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543190,0540543,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543400,0540543,2 No,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543020,0540543,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543390,0540543,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543330,0540543,2 No,3.0,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543290,0540543,2 No,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543270,0540543,1 Yes,3.0,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543370,0540543,1 Yes,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543070,0540543,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543340,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543040,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543150,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543430,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543350,0540543,1 Yes,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543360,0540543,2 No,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543010,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543300,0540543,2 No,3.0,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543440,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543310,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543380,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543200,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543250,0540543,2 No,2 Water Heater Installed by The Household,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543120,0540543,2 No,2 Water Heater Installed by The Household,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543420,0540543,1 Yes,3.0,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543240,0540543,2 No,3.0,5 Electric,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543130,0540543,2 No,3.0,6 Crop Residue/Wood Burning,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543280,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543320,0540543,1 Yes,2 Water Heater Installed by The Household,2 Natural Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban
+2015,0540543030,0540543,2 No,2 Water Heater Installed by The Household,4 Liquefied Petroleum Gas,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban

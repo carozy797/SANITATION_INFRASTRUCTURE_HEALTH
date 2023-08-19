@@ -1,7 +1,0 @@
-,Independent Variable,Target Variable,Chi-Square,P-Value
-0,cooking_fuel_source,hyp,26.34385178701491,0.0004371473986825849
-1,cooking_fuel_source,mem_rel_dis,10.289553468072238,0.17274990715548752
-2,cooking_fuel_source,rheumatism,39.06078582107256,1.9029752674787659e-06
-3,cooking_fuel_source,lund_dis,49.01022090740677,2.2585178381106762e-08
-4,cooking_fuel_source,liver_dis,52.73134364303566,4.188632405501118e-09
-5,cooking_fuel_source,stomach_dis,37.431464013161815,3.885447779029111e-06

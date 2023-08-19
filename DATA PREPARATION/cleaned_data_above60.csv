@@ -1,0 +1,622 @@
+Year,ID,HouseHoldID,communityID,province,city,urban_nbs,age_cal,has_running_water,inhouse_shower_Bath,cooking_fuel_source,self_com_on_health,hyp,mem_rel_dis,rheumatism,lung_dis,liver_dis,stomach_dis,main_toilet_type,sewage_sys,road_type,waste_management,health_status
+2011,9400410301,94004103,940041,±±¾©,±±¾©,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400410801,94004108,940041,±±¾©,±±¾©,Urban,73.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400410902,94004109,940041,±±¾©,±±¾©,Urban,66.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Fair,No,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400411001,94004110,940041,±±¾©,±±¾©,Urban,76.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400411002,94004110,940041,±±¾©,±±¾©,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400411201,94004112,940041,±±¾©,±±¾©,Urban,65.0,Yes,No,Natural Gas,Poor,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400411202,94004112,940041,±±¾©,±±¾©,Urban,60.0,Yes,No,Natural Gas,Poor,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400411301,94004113,940041,±±¾©,±±¾©,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400411301,94004113,940041,±±¾©,±±¾©,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400411501,94004115,940041,±±¾©,±±¾©,Urban,64.0,Yes,No,Natural Gas,Poor,Yes,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400411502,94004115,940041,±±¾©,±±¾©,Urban,66.0,Yes,No,Natural Gas,Poor,Yes,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400412101,94004121,940041,±±¾©,±±¾©,Urban,77.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Fair,No,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400412102,94004121,940041,±±¾©,±±¾©,Urban,77.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Fair,No,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400420302,94004203,940042,±±¾©,±±¾©,Urban,78.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,Yes,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400420401,94004204,940042,±±¾©,±±¾©,Urban,74.0,Yes,Water heater installed by the household,Natural Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400420402,94004204,940042,±±¾©,±±¾©,Urban,73.0,Yes,Water heater installed by the household,Natural Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400420601,94004206,940042,±±¾©,±±¾©,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400420601,94004206,940042,±±¾©,±±¾©,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400420602,94004206,940042,±±¾©,±±¾©,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400420602,94004206,940042,±±¾©,±±¾©,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421001,94004210,940042,±±¾©,±±¾©,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421002,94004210,940042,±±¾©,±±¾©,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421301,94004213,940042,±±¾©,±±¾©,Urban,66.0,Yes,Hot water provided,Natural Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400421301,94004213,940042,±±¾©,±±¾©,Urban,66.0,Yes,Hot water provided,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421302,94004213,940042,±±¾©,±±¾©,Urban,64.0,Yes,Hot water provided,Natural Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400421302,94004213,940042,±±¾©,±±¾©,Urban,64.0,Yes,Hot water provided,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421401,94004214,940042,±±¾©,±±¾©,Urban,78.0,Yes,Water heater installed by the household,Natural Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400421402,94004214,940042,±±¾©,±±¾©,Urban,90.0,Yes,Water heater installed by the household,Natural Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400421501,94004215,940042,±±¾©,±±¾©,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421502,94004215,940042,±±¾©,±±¾©,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421601,94004216,940042,±±¾©,±±¾©,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400421601,94004216,940042,±±¾©,±±¾©,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400421602,94004216,940042,±±¾©,±±¾©,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400421602,94004216,940042,±±¾©,±±¾©,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400421701,94004217,940042,±±¾©,±±¾©,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400421701,94004217,940042,±±¾©,±±¾©,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421702,94004217,940042,±±¾©,±±¾©,Urban,76.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400421702,94004217,940042,±±¾©,±±¾©,Urban,76.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421801,94004218,940042,±±¾©,±±¾©,Urban,67.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,Yes,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421802,94004218,940042,±±¾©,±±¾©,Urban,76.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,Yes,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421901,94004219,940042,±±¾©,±±¾©,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400421902,94004219,940042,±±¾©,±±¾©,Urban,82.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400422101,94004221,940042,±±¾©,±±¾©,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400430301,94004303,940043,±±¾©,±±¾©,Urban,72.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400430302,94004303,940043,±±¾©,±±¾©,Urban,69.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400430701,94004307,940043,±±¾©,±±¾©,Urban,69.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400430702,94004307,940043,±±¾©,±±¾©,Urban,69.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,9400430801,94004308,940043,±±¾©,±±¾©,Urban,61.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400431001,94004310,940043,±±¾©,±±¾©,Urban,74.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,9400431002,94004310,940043,±±¾©,±±¾©,Urban,79.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,94004223001,940042230,940042,±±¾©,±±¾©,Urban,74.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,94004223001,940042230,940042,±±¾©,±±¾©,Urban,74.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,94004223001,940042230,940042,±±¾©,±±¾©,Urban,74.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,94004223001,940042230,940042,±±¾©,±±¾©,Urban,74.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,94004223002,940042230,940042,±±¾©,±±¾©,Urban,71.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,94004223002,940042230,940042,±±¾©,±±¾©,Urban,71.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,94004223002,940042230,940042,±±¾©,±±¾©,Urban,71.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,94004223002,940042230,940042,±±¾©,±±¾©,Urban,71.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,94004301003,940043010,940043,±±¾©,±±¾©,Urban,80.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,34523330401,345233304,3452333,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,79.0,Yes,No,Electric,Fair,No,No,Yes,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,34523331001,345233310,3452333,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,81.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,34523331101,345233311,3452333,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,74.0,Yes,No,Electric,Good,No,No,No,Yes,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,34523331101,345233311,3452333,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,74.0,Yes,No,Electric,Good,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,34523331102,345233311,3452333,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,70.0,Yes,No,Electric,Good,No,No,No,Yes,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,34523331102,345233311,3452333,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,70.0,Yes,No,Electric,Good,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,34523331301,345233313,3452333,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,69.0,Yes,No,Electric,Good,No,No,Yes,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,34776330401,347763304,3477633,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,62.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Good,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,34776330502,347763305,3477633,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,67.0,Yes,No,Electric,Fair,Yes,No,No,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,34776330502,347763305,3477633,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,67.0,Yes,No,Electric,Poor,No,No,Yes,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,34776330601,347763306,3477633,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,71.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,34776330602,347763306,3477633,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,70.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,34776331001,347763310,3477633,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,71.0,Yes,No,Electric,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,34776331002,347763310,3477633,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,61.0,Yes,No,Electric,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,345233323001,3452333230,3452333,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,63.0,Yes,Water heater installed by the household,Electric,Good,No,No,Yes,No,No,Yes,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2013,345233323001,3452333230,3452333,¹óÖÝÊ¡,Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖÝ,Urban,63.0,Yes,No,Electric,Good,No,No,Yes,No,No,Yes,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,1044620201,10446202,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,60.0,Yes,No,Crop residue/Wood burning,Good,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,1
+2011,1044620202,10446202,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,70.0,Yes,No,Crop residue/Wood burning,Good,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,1
+2011,1044620301,10446203,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,77.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Very poor,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044621201,10446212,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,62.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Very poor,Yes,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044621202,10446212,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,64.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Very poor,Yes,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044622301,10446223,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,64.0,No,No,Crop residue/Wood burning,Very poor,No,No,No,Yes,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044622302,10446223,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,61.0,No,No,Crop residue/Wood burning,Very poor,No,No,No,Yes,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044622501,10446225,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,69.0,Yes,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044622801,10446228,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,65.0,Yes,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044622802,10446228,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,69.0,Yes,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044610101,10446101,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,72.0,Yes,No,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044610102,10446101,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,67.0,Yes,No,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044610301,10446103,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,79.0,Yes,No,Crop residue/Wood burning,Poor,Yes,No,Yes,Yes,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044610701,10446107,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,67.0,Yes,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044610702,10446107,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,70.0,Yes,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044610801,10446108,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,64.0,Yes,No,Crop residue/Wood burning,Poor,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044610901,10446109,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,66.0,Yes,No,Crop residue/Wood burning,Fair,No,No,Yes,No,No,Yes,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044610902,10446109,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,61.0,Yes,No,Crop residue/Wood burning,Fair,No,No,Yes,No,No,Yes,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044611401,10446114,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,67.0,Yes,No,Crop residue/Wood burning,Poor,No,No,No,Yes,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044611402,10446114,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,69.0,Yes,No,Crop residue/Wood burning,Poor,No,No,No,Yes,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044611501,10446115,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,83.0,Yes,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044611501,10446115,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,83.0,Yes,No,Crop residue/Wood burning,Poor,Yes,No,Yes,Yes,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044611502,10446115,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,78.0,Yes,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044611502,10446115,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,78.0,Yes,No,Crop residue/Wood burning,Poor,Yes,No,Yes,Yes,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1044611901,10446119,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,67.0,Yes,No,Crop residue/Wood burning,Poor,Yes,No,Yes,Yes,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2013,10446230001,104462300,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,64.0,Yes,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2013,10446230001,104462300,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,64.0,Yes,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2013,10446230001,104462300,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,64.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2013,10446230001,104462300,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,64.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2013,10446230002,104462300,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,60.0,Yes,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2013,10446230002,104462300,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,60.0,Yes,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2013,10446230002,104462300,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,60.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2013,10446230002,104462300,104462,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,60.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2013,10446112002,104461120,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,69.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2013,10446112002,104461120,104461,ÔÆÄÏÊ¡,ÕÑÍ¨ÊÐ,Urban,69.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Open-air,No,Pathway/Dirt/unpaved road,Do not manage,0
+2011,1405120101,14051201,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,61.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Good,No,No,No,No,No,No,Open-air,No,Paved road,Do not manage,1
+2011,1405120201,14051202,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,66.0,No,No,Crop residue/Wood burning,Good,No,No,Yes,No,No,No,Open-air,No,Paved road,Do not manage,1
+2011,1405120202,14051202,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,70.0,No,No,Crop residue/Wood burning,Good,No,No,Yes,No,No,No,Open-air,No,Paved road,Do not manage,1
+2011,1405120901,14051209,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,88.0,No,Water heater installed by the household,Electric,Fair,No,No,No,Yes,No,No,Open-air,No,Paved road,Do not manage,0
+2011,1405122201,14051222,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,66.0,Yes,No,Electric,Poor,No,No,No,No,No,Yes,Open-air,No,Paved road,Do not manage,0
+2011,1405122301,14051223,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,65.0,Yes,No,Crop residue/Wood burning,Poor,No,No,No,No,No,No,Open-air,No,Paved road,Do not manage,0
+2011,1405122501,14051225,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,60.0,Yes,No,Electric,Fair,No,No,Yes,No,No,Yes,Open-air,No,Paved road,Do not manage,0
+2011,1405122502,14051225,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,66.0,Yes,No,Electric,Fair,No,No,Yes,No,No,Yes,Open-air,No,Paved road,Do not manage,0
+2011,1403110101,14031101,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403110102,14031101,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,71.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403110502,14031105,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,60.0,Yes,Water heater installed by the household,Coal,Fair,Yes,No,No,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403110502,14031105,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,60.0,Yes,Water heater installed by the household,Coal,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403111201,14031112,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403111201,14031112,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,1403111401,14031114,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,76.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403111401,14031114,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,76.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403111402,14031114,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403111402,14031114,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403111601,14031116,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,66.0,Yes,Water heater installed by the household,Natural Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,1403111601,14031116,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,66.0,Yes,Water heater installed by the household,Natural Gas,Very good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,1403111801,14031118,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,66.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,1403112001,14031120,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,Yes,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403112002,14031120,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,Yes,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403112201,14031122,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403112202,14031122,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,61.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403112301,14031123,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1405110301,14051103,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,67.0,Yes,No,Electric,Very poor,Yes,Yes,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,1405110302,14051103,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,70.0,Yes,No,Electric,Very poor,Yes,Yes,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,1405110601,14051106,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,65.0,No,No,Electric,Good,No,No,Yes,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,1405110602,14051106,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,64.0,No,No,Electric,Good,No,No,Yes,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,1405110701,14051107,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,62.0,Yes,No,Electric,Very good,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,1405110702,14051107,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,61.0,Yes,No,Electric,Very good,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,1405111101,14051111,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,80.0,Yes,No,Coal,Very poor,Yes,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,1405111102,14051111,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,77.0,Yes,No,Coal,Very poor,Yes,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,1405111401,14051114,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,1405111801,14051118,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,83.0,Yes,No,Crop residue/Wood burning,Very poor,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,1405111802,14051118,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,76.0,Yes,No,Crop residue/Wood burning,Very poor,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,1403130101,14031301,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,72.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403130101,14031301,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,72.0,Yes,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403130102,14031301,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,68.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403130102,14031301,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,68.0,Yes,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403130601,14031306,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,76.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403130602,14031306,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403130901,14031309,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,61.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,1403130902,14031309,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,66.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,1403131001,14031310,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,66.0,Yes,Water heater installed by the household,Coal,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,1403131002,14031310,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,75.0,Yes,Water heater installed by the household,Coal,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,1403131101,14031311,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,1403131101,14031311,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1403131201,14031312,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,62.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,14051228001,140512280,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,71.0,Yes,Water heater installed by the household,Electric,Very poor,No,No,Yes,No,No,No,Open-air,No,Paved road,Do not manage,0
+2013,14051228001,140512280,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,71.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Very poor,No,No,Yes,No,No,No,Open-air,No,Paved road,Do not manage,0
+2013,14051228002,140512280,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,78.0,Yes,Water heater installed by the household,Electric,Very poor,No,No,Yes,No,No,No,Open-air,No,Paved road,Do not manage,0
+2013,14051228002,140512280,140512,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,78.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Very poor,No,No,Yes,No,No,No,Open-air,No,Paved road,Do not manage,0
+2013,14031127001,140311270,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,81.0,Yes,Water heater installed by the household,Natural Gas,Very poor,Yes,No,Yes,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,14031127001,140311270,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,81.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,14031127002,140311270,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,83.0,Yes,Water heater installed by the household,Natural Gas,Very poor,Yes,No,Yes,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,14031127002,140311270,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,83.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,14031128001,140311280,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,Yes,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,14031128001,140311280,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,Yes,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,14031128002,140311280,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,Yes,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,14031128002,140311280,140311,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,Yes,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,14051124001,140511240,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,71.0,Yes,No,Crop residue/Wood burning,Very poor,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2013,14051124001,140511240,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,71.0,Yes,No,Crop residue/Wood burning,Very poor,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2013,14051124002,140511240,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,68.0,Yes,No,Crop residue/Wood burning,Very poor,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2013,14051124002,140511240,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,68.0,Yes,No,Crop residue/Wood burning,Very poor,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2015,14051124001,140511240,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,73.0,Yes,No,Crop residue/Wood burning,Very poor,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2015,14051124001,140511240,140511,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,73.0,Yes,No,Crop residue/Wood burning,Very poor,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2015,14031335001,140313350,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,63.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Good,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2015,14031335001,140313350,140313,ÔÆÄÏÊ¡,À¥Ã÷ÊÐ,Urban,63.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,Yes,Yes,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1464310201,14643102,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,68.0,Yes,No,Crop residue/Wood burning,Good,No,No,No,No,No,Yes,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,1464310501,14643105,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,74.0,No,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464310502,14643105,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,79.0,No,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464310601,14643106,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,62.0,No,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464310801,14643108,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,60.0,No,Water heater installed by the household,Electric,Poor,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464311101,14643111,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,82.0,No,Water heater installed by the household,Electric,Poor,No,No,Yes,No,No,Yes,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464311102,14643111,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,83.0,No,Water heater installed by the household,Electric,Poor,No,No,Yes,No,No,Yes,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464311301,14643113,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,68.0,No,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464311401,14643114,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,61.0,No,No,Electric,Good,No,No,Yes,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,1464311401,14643114,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,61.0,No,No,Electric,Poor,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464311701,14643117,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,77.0,No,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464311801,14643118,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,66.0,No,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464311802,14643118,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464311901,14643119,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,67.0,No,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,1464311902,14643119,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,60.0,No,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,1464312001,14643120,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,63.0,Yes,No,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464312002,14643120,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,69.0,Yes,No,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,1464312301,14643123,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,61.0,Yes,Water heater installed by the household,Coal,Very good,No,No,No,Yes,No,Yes,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,1464312301,14643123,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,61.0,Yes,Water heater installed by the household,Coal,Good,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,1464312302,14643123,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,66.0,Yes,Water heater installed by the household,Coal,Very good,No,No,No,Yes,No,Yes,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,1464312302,14643123,146431,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,66.0,Yes,Water heater installed by the household,Coal,Good,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,1464321102,14643211,146432,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,61.0,Yes,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,Yes,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1464321601,14643216,146432,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,69.0,Yes,Hot water provided,Electric,Fair,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1464321602,14643216,146432,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,68.0,Yes,Hot water provided,Electric,Fair,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1464321801,14643218,146432,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,70.0,No,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1464321802,14643218,146432,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,75.0,No,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1464321901,14643219,146432,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,64.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,1464321901,14643219,146432,ÔÆÄÏÊ¡,ÁÙ²×ÊÐ,Urban,64.0,Yes,Water heater installed by the household,Electric,Fair,Yes,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403730101,194037301,1940373,Ìì½ò,Ìì½ò,Urban,66.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Very good,No,Yes,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403730102,194037301,1940373,Ìì½ò,Ìì½ò,Urban,62.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Very good,No,Yes,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403730301,194037303,1940373,Ìì½ò,Ìì½ò,Urban,78.0,Yes,No,Liquefied Petroleum Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403731301,194037313,1940373,Ìì½ò,Ìì½ò,Urban,70.0,Yes,No,Liquefied Petroleum Gas,Poor,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403732101,194037321,1940373,Ìì½ò,Ìì½ò,Urban,66.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403732102,194037321,1940373,Ìì½ò,Ìì½ò,Urban,66.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403732301,194037323,1940373,Ìì½ò,Ìì½ò,Urban,71.0,Yes,No,Liquefied Petroleum Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403732601,194037326,1940373,Ìì½ò,Ìì½ò,Urban,61.0,Yes,Water heater installed by the household,Electric,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403732601,194037326,1940373,Ìì½ò,Ìì½ò,Urban,61.0,Yes,Water heater installed by the household,Electric,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403732602,194037326,1940373,Ìì½ò,Ìì½ò,Urban,62.0,Yes,Water heater installed by the household,Electric,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403732602,194037326,1940373,Ìì½ò,Ìì½ò,Urban,62.0,Yes,Water heater installed by the household,Electric,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403732801,194037328,1940373,Ìì½ò,Ìì½ò,Urban,72.0,No,Water heater installed by the household,Liquefied Petroleum Gas,Very good,No,No,No,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403732901,194037329,1940373,Ìì½ò,Ìì½ò,Urban,73.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403733301,194037333,1940373,Ìì½ò,Ìì½ò,Urban,66.0,No,No,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403733302,194037333,1940373,Ìì½ò,Ìì½ò,Urban,66.0,No,No,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403733401,194037334,1940373,Ìì½ò,Ìì½ò,Urban,62.0,No,No,Liquefied Petroleum Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403733402,194037334,1940373,Ìì½ò,Ìì½ò,Urban,63.0,No,No,Liquefied Petroleum Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403733701,194037337,1940373,Ìì½ò,Ìì½ò,Urban,75.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403733801,194037338,1940373,Ìì½ò,Ìì½ò,Urban,71.0,Yes,No,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403733802,194037338,1940373,Ìì½ò,Ìì½ò,Urban,68.0,Yes,No,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403710201,194037102,1940371,Ìì½ò,Ìì½ò,Urban,62.0,No,Water heater installed by the household,Crop residue/Wood burning,Poor,No,No,Yes,No,No,Yes,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,19403711101,194037111,1940371,Ìì½ò,Ìì½ò,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,19403711201,194037112,1940371,Ìì½ò,Ìì½ò,Urban,65.0,No,Water heater installed by the household,Liquefied Petroleum Gas,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,19403711201,194037112,1940371,Ìì½ò,Ìì½ò,Urban,65.0,No,Water heater installed by the household,Liquefied Petroleum Gas,Very poor,Yes,No,No,No,Yes,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,19403711202,194037112,1940371,Ìì½ò,Ìì½ò,Urban,68.0,No,Water heater installed by the household,Liquefied Petroleum Gas,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,19403711202,194037112,1940371,Ìì½ò,Ìì½ò,Urban,68.0,No,Water heater installed by the household,Liquefied Petroleum Gas,Very poor,Yes,No,No,No,Yes,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,19403711501,194037115,1940371,Ìì½ò,Ìì½ò,Urban,75.0,Yes,No,Natural Gas,Fair,Yes,Yes,No,No,No,Yes,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,19403712201,194037122,1940371,Ìì½ò,Ìì½ò,Urban,76.0,No,Water heater installed by the household,Liquefied Petroleum Gas,Good,Yes,No,Yes,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,19403712601,194037126,1940371,Ìì½ò,Ìì½ò,Urban,61.0,No,No,Crop residue/Wood burning,Very good,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,19403712601,194037126,1940371,Ìì½ò,Ìì½ò,Urban,61.0,No,No,Crop residue/Wood burning,Very poor,Yes,Yes,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,19403712602,194037126,1940371,Ìì½ò,Ìì½ò,Urban,63.0,No,No,Crop residue/Wood burning,Very good,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2011,19403712602,194037126,1940371,Ìì½ò,Ìì½ò,Urban,63.0,No,No,Crop residue/Wood burning,Very poor,Yes,Yes,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,19403720101,194037201,1940372,Ìì½ò,Ìì½ò,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403720102,194037201,1940372,Ìì½ò,Ìì½ò,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403720601,194037206,1940372,Ìì½ò,Ìì½ò,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,No,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403720602,194037206,1940372,Ìì½ò,Ìì½ò,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,No,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403720901,194037209,1940372,Ìì½ò,Ìì½ò,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Very poor,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721101,194037211,1940372,Ìì½ò,Ìì½ò,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Very poor,No,No,No,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721101,194037211,1940372,Ìì½ò,Ìì½ò,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Very good,No,No,No,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403721102,194037211,1940372,Ìì½ò,Ìì½ò,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Very poor,No,No,No,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721102,194037211,1940372,Ìì½ò,Ìì½ò,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Very good,No,No,No,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403721301,194037213,1940372,Ìì½ò,Ìì½ò,Urban,60.0,Yes,Hot water provided,Natural Gas,Fair,No,No,No,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721301,194037213,1940372,Ìì½ò,Ìì½ò,Urban,60.0,Yes,Hot water provided,Natural Gas,Poor,Yes,Yes,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721302,194037213,1940372,Ìì½ò,Ìì½ò,Urban,64.0,Yes,Hot water provided,Natural Gas,Fair,No,No,No,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721302,194037213,1940372,Ìì½ò,Ìì½ò,Urban,64.0,Yes,Hot water provided,Natural Gas,Poor,Yes,Yes,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721401,194037214,1940372,Ìì½ò,Ìì½ò,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403721402,194037214,1940372,Ìì½ò,Ìì½ò,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403721601,194037216,1940372,Ìì½ò,Ìì½ò,Urban,62.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403721601,194037216,1940372,Ìì½ò,Ìì½ò,Urban,62.0,Yes,Water heater installed by the household,Natural Gas,Very good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,19403721701,194037217,1940372,Ìì½ò,Ìì½ò,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721702,194037217,1940372,Ìì½ò,Ìì½ò,Urban,61.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721801,194037218,1940372,Ìì½ò,Ìì½ò,Urban,62.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721802,194037218,1940372,Ìì½ò,Ìì½ò,Urban,62.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721901,194037219,1940372,Ìì½ò,Ìì½ò,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721901,194037219,1940372,Ìì½ò,Ìì½ò,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721902,194037219,1940372,Ìì½ò,Ìì½ò,Urban,62.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,19403721902,194037219,1940372,Ìì½ò,Ìì½ò,Urban,62.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,194037223001,1940372230,1940372,Ìì½ò,Ìì½ò,Urban,69.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,194037223001,1940372230,1940372,Ìì½ò,Ìì½ò,Urban,69.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,194037223002,1940372230,1940372,Ìì½ò,Ìì½ò,Urban,69.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,194037223002,1940372230,1940372,Ìì½ò,Ìì½ò,Urban,69.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2015,194037223001,1940372230,1940372,Ìì½ò,Ìì½ò,Urban,71.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2015,194037223001,1940372230,1940372,Ìì½ò,Ìì½ò,Urban,71.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967620401,89676204,896762,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,63.0,No,No,Coal,Fair,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967620402,89676204,896762,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,69.0,No,No,Coal,Fair,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967620701,89676207,896762,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,62.0,No,No,Coal,Fair,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967620801,89676208,896762,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,69.0,Yes,No,Coal,Poor,Yes,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967620901,89676209,896762,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,71.0,No,No,Coal,Fair,No,No,No,No,No,Yes,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967621201,89676212,896762,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,67.0,No,No,Coal,Poor,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967621601,89676216,896762,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,63.0,No,No,Coal,Fair,No,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967621801,89676218,896762,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,74.0,No,No,Coal,Fair,No,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967621802,89676218,896762,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,63.0,No,No,Coal,Fair,No,No,Yes,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967622301,89676223,896762,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,66.0,No,No,Coal,Fair,Yes,No,No,No,No,No,Outside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,8967630101,89676301,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,8967630102,89676301,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,83.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,8967630201,89676302,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,83.0,Yes,No,Coal,Fair,Yes,Yes,Yes,No,No,Yes,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967630201,89676302,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,83.0,Yes,No,Coal,Good,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,8967630202,89676302,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,60.0,Yes,No,Coal,Fair,Yes,Yes,Yes,No,No,Yes,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967630202,89676302,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,60.0,Yes,No,Coal,Good,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,8967630501,89676305,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,68.0,Yes,No,Coal,Poor,No,No,No,Yes,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967630501,89676305,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,68.0,Yes,No,Coal,Poor,No,No,Yes,No,No,Yes,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967630502,89676305,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,74.0,Yes,No,Coal,Poor,No,No,No,Yes,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967630502,89676305,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,74.0,Yes,No,Coal,Poor,No,No,Yes,No,No,Yes,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967631002,89676310,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,62.0,Yes,No,Coal,Fair,Yes,No,No,Yes,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967631002,89676310,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,62.0,Yes,No,Coal,Good,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,8967631201,89676312,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,Yes,Yes,No,Yes,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967631202,89676312,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,76.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,Yes,Yes,No,Yes,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967631501,89676315,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,64.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Very good,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,8967631601,89676316,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,61.0,Yes,No,Coal,Poor,Yes,No,Yes,Yes,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967631801,89676318,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,70.0,Yes,Hot water provided,Coal,Fair,Yes,Yes,Yes,Yes,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967632001,89676320,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,73.0,Yes,No,Coal,Poor,Yes,Yes,Yes,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967632001,89676320,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,73.0,Yes,No,Coal,Fair,No,No,Yes,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967632002,89676320,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,61.0,Yes,No,Coal,Poor,Yes,Yes,Yes,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967632002,89676320,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,61.0,Yes,No,Coal,Fair,No,No,Yes,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967632101,89676321,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,67.0,Yes,No,Coal,Fair,Yes,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,8967632102,89676321,896763,ÐÂ½®Î¬Îá¶û×ÔÖÎÇø,°¢¿ËËÕµØÇø,Urban,74.0,Yes,No,Coal,Fair,Yes,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,10825920801,108259208,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,63.0,No,No,Crop residue/Wood burning,Fair,Yes,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825920802,108259208,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,61.0,No,No,Crop residue/Wood burning,Fair,Yes,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825920901,108259209,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,68.0,No,No,Crop residue/Wood burning,Fair,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825920902,108259209,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,70.0,No,No,Crop residue/Wood burning,Fair,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825921001,108259210,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,81.0,No,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825921101,108259211,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,60.0,No,No,Crop residue/Wood burning,Very poor,No,No,Yes,Yes,No,Yes,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825921302,108259213,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,64.0,No,No,Crop residue/Wood burning,Good,No,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,1
+2011,10825922101,108259221,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,64.0,No,No,Liquefied Petroleum Gas,Fair,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825922102,108259221,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,62.0,No,No,Liquefied Petroleum Gas,Fair,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825922301,108259223,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,61.0,No,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825922302,108259223,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,70.0,No,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825922501,108259225,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,61.0,No,No,Crop residue/Wood burning,Poor,No,No,Yes,Yes,No,Yes,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825922501,108259225,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,61.0,No,No,Crop residue/Wood burning,Fair,No,No,Yes,Yes,No,Yes,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825922502,108259225,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,61.0,No,No,Crop residue/Wood burning,Poor,No,No,Yes,Yes,No,Yes,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825922502,108259225,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,61.0,No,No,Crop residue/Wood burning,Fair,No,No,Yes,Yes,No,Yes,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825922601,108259226,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,70.0,No,No,Crop residue/Wood burning,Fair,Yes,No,Yes,Yes,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825922602,108259226,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,62.0,No,No,Crop residue/Wood burning,Fair,Yes,No,Yes,Yes,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825923001,108259230,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,66.0,No,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825923002,108259230,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,69.0,No,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825923101,108259231,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,62.0,No,No,Crop residue/Wood burning,Poor,No,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825923601,108259236,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,64.0,No,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825923601,108259236,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,64.0,No,No,Crop residue/Wood burning,Poor,Yes,No,Yes,Yes,Yes,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825923602,108259236,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,62.0,No,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825923602,108259236,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,62.0,No,No,Crop residue/Wood burning,Poor,Yes,No,Yes,Yes,Yes,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825924401,108259244,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,72.0,No,No,Crop residue/Wood burning,Good,No,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,1
+2011,10825924401,108259244,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,72.0,No,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825924402,108259244,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,64.0,No,No,Crop residue/Wood burning,Good,No,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,1
+2011,10825924402,108259244,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,64.0,No,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10825931002,108259310,1082593,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,64.0,No,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,No,Outside public toilet without water,Yes,Sand-stone road,Burn away,0
+2011,10825931502,108259315,1082593,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,61.0,No,No,Crop residue/Wood burning,Poor,No,No,Yes,No,Yes,No,Outside public toilet without water,Yes,Sand-stone road,Burn away,0
+2011,10825932002,108259320,1082593,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,70.0,No,No,Coal,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Sand-stone road,Burn away,0
+2011,10825932201,108259322,1082593,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,63.0,Yes,No,Coal,Very good,No,No,No,No,No,No,Outside public toilet without water,Yes,Sand-stone road,Burn away,1
+2011,10825932601,108259326,1082593,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,65.0,No,No,Liquefied Petroleum Gas,Good,No,No,No,No,No,No,Outside public toilet without water,Yes,Sand-stone road,Burn away,1
+2011,10825932602,108259326,1082593,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,61.0,No,No,Liquefied Petroleum Gas,Good,No,No,No,No,No,No,Outside public toilet without water,Yes,Sand-stone road,Burn away,1
+2011,10825932801,108259328,1082593,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,74.0,No,No,Crop residue/Wood burning,Good,Yes,No,No,No,No,No,Outside public toilet without water,Yes,Sand-stone road,Burn away,1
+2011,10825932801,108259328,1082593,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,74.0,No,No,Crop residue/Wood burning,Good,No,No,No,No,No,No,Outside public toilet without water,Yes,Sand-stone road,Burn away,1
+2011,10825932802,108259328,1082593,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,80.0,No,No,Crop residue/Wood burning,Good,Yes,No,No,No,No,No,Outside public toilet without water,Yes,Sand-stone road,Burn away,1
+2011,10825932802,108259328,1082593,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,80.0,No,No,Crop residue/Wood burning,Good,No,No,No,No,No,No,Outside public toilet without water,Yes,Sand-stone road,Burn away,1
+2013,108259231002,1082592310,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,65.0,No,No,Coal,Fair,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2013,108259231002,1082592310,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2013,108259247002,1082592470,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,60.0,No,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2013,108259247002,1082592470,1082592,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôÂ×±´¶ûÊÐ,Urban,60.0,No,No,Crop residue/Wood burning,Fair,No,No,Yes,No,Yes,Yes,Outside public toilet without water,No,Sand-stone road,Moved away by truck,0
+2011,10538130301,105381303,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,63.0,No,No,Crop residue/Wood burning,Very good,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,10538130601,105381306,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,67.0,No,No,Crop residue/Wood burning,Fair,No,No,No,No,No,Yes,Open-air,Yes,Paved road,Moved away by truck,0
+2011,10538130802,105381308,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,64.0,No,No,Crop residue/Wood burning,Poor,No,No,No,Yes,No,Yes,Open-air,Yes,Paved road,Moved away by truck,0
+2011,10538131001,105381310,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,68.0,Yes,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,10538131002,105381310,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,67.0,Yes,No,Crop residue/Wood burning,Fair,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,10538131401,105381314,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,74.0,Yes,No,Crop residue/Wood burning,Poor,Yes,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,10538131601,105381316,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,73.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,10538132001,105381320,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,76.0,No,No,Coal,Poor,Yes,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,10538132001,105381320,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,76.0,No,No,Coal,Good,No,No,No,Yes,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,10538132002,105381320,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,73.0,No,No,Coal,Poor,Yes,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,0
+2011,10538132002,105381320,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,73.0,No,No,Coal,Good,No,No,No,Yes,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,10538132301,105381323,1053813,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,65.0,No,No,Crop residue/Wood burning,Good,No,No,No,No,No,No,Open-air,Yes,Paved road,Moved away by truck,1
+2011,10538110202,105381102,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,62.0,Yes,Water heater installed by the household,Electric,Poor,No,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538110301,105381103,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,76.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538110301,105381103,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,76.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538110302,105381103,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,67.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538110302,105381103,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,67.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538110701,105381107,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,72.0,Yes,Water heater installed by the household,Electric,Poor,Yes,No,No,No,No,Yes,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538110701,105381107,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,72.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,Yes,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538110702,105381107,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Poor,Yes,No,No,No,No,Yes,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538110702,105381107,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,Yes,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538110801,105381108,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Fair,Yes,No,No,No,No,Yes,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538110802,105381108,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Fair,Yes,No,No,No,No,Yes,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10538111102,105381111,1053811,ÄÚÃÉ¹Å×ÔÖÎÇø,³à·åÊÐ,Urban,61.0,Yes,No,Liquefied Petroleum Gas,Poor,No,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10400430401,104004304,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,78.0,Yes,No,Natural Gas,Fair,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400430402,104004304,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,73.0,Yes,No,Natural Gas,Fair,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400430501,104004305,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,83.0,Yes,Water heater installed by the household,Natural Gas,Good,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10400430601,104004306,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,74.0,Yes,No,Natural Gas,Very good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10400430602,104004306,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,78.0,Yes,No,Natural Gas,Very good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10400430801,104004308,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,72.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10400430801,104004308,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,72.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400430802,104004308,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10400430802,104004308,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400430901,104004309,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Very good,Yes,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10400430901,104004309,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400431101,104004311,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,68.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10400431102,104004311,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10400431201,104004312,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10400431301,104004313,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,78.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400431301,104004313,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,78.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,Yes,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400431302,104004313,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,73.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400431302,104004313,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,73.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,Yes,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400431701,104004317,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400431702,104004317,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400431801,104004318,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400431802,104004318,1040043,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,69.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10400410201,104004102,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,74.0,Yes,No,Crop residue/Wood burning,Fair,No,No,Yes,Yes,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400410202,104004102,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,73.0,Yes,No,Crop residue/Wood burning,Fair,No,No,Yes,Yes,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400410301,104004103,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,65.0,Yes,No,Coal,Fair,No,No,No,No,No,Yes,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400410302,104004103,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,61.0,Yes,No,Coal,Fair,No,No,No,No,No,Yes,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400410401,104004104,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,78.0,Yes,No,Natural Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2011,10400410402,104004104,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,72.0,Yes,No,Natural Gas,Good,Yes,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2011,10400410501,104004105,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,Yes,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400410502,104004105,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,61.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,Yes,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400410601,104004106,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,62.0,No,No,Coal,Fair,No,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400410801,104004108,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,64.0,Yes,No,Natural Gas,Poor,No,No,Yes,Yes,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400410801,104004108,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,64.0,Yes,No,Natural Gas,Poor,No,No,Yes,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400410802,104004108,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,60.0,Yes,No,Natural Gas,Poor,No,No,Yes,Yes,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400410802,104004108,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,60.0,Yes,No,Natural Gas,Poor,No,No,Yes,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400411001,104004110,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,80.0,Yes,Water heater installed by the household,Natural Gas,Very good,No,No,Yes,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2011,10400411002,104004110,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,77.0,Yes,Water heater installed by the household,Natural Gas,Very good,No,No,Yes,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2011,10400411401,104004114,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,66.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400411402,104004114,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,71.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400411601,104004116,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Very good,No,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2011,10400412201,104004122,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,63.0,Yes,No,Natural Gas,Poor,Yes,Yes,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400412201,104004122,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,63.0,Yes,No,Natural Gas,Poor,Yes,No,Yes,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400412202,104004122,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,70.0,Yes,No,Natural Gas,Poor,Yes,Yes,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400412202,104004122,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,70.0,Yes,No,Natural Gas,Poor,Yes,No,Yes,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,0
+2011,10400420201,104004202,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,Yes,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,1
+2011,10400420202,104004202,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,Yes,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,1
+2011,10400420301,104004203,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Very good,No,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,1
+2011,10400420301,104004203,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10400420601,104004206,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,75.0,Yes,No,Natural Gas,Fair,No,No,Yes,Yes,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10400420601,104004206,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,75.0,Yes,No,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10400420602,104004206,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,75.0,Yes,No,Natural Gas,Fair,No,No,Yes,Yes,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10400420602,104004206,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,75.0,Yes,No,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10400421101,104004211,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,67.0,Yes,No,Natural Gas,Poor,Yes,No,Yes,No,Yes,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10400421401,104004214,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,74.0,Yes,Water heater installed by the household,Natural Gas,Good,No,No,No,Yes,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,1
+2013,104004125001,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,67.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2013,104004125001,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,67.0,Yes,Water heater installed by the household,Electric,Very good,Yes,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2013,104004125001,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,67.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2013,104004125001,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,67.0,Yes,Water heater installed by the household,Electric,Very good,Yes,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2013,104004125002,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,72.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2013,104004125002,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,72.0,Yes,Water heater installed by the household,Electric,Very good,Yes,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2013,104004125002,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,72.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2013,104004125002,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,72.0,Yes,Water heater installed by the household,Electric,Very good,Yes,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2015,104004125001,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2015,104004125001,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Very good,Yes,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2015,104004125001,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Good,No,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2015,104004125001,1040041250,1040041,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Very good,Yes,No,No,No,No,No,Inside toilet with water,No,Paved road,Buried in this village,1
+2015,104004221002,1040042210,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,79.0,Yes,Water heater installed by the household,Natural Gas,Very poor,Yes,No,No,No,No,No,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2015,104004221002,1040042210,1040042,ÄÚÃÉ¹Å×ÔÖÎÇø,ºôºÍºÆÌØÊÐ,Urban,79.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,Yes,Inside toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510220401,105102204,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,66.0,No,No,Electric,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510221301,105102213,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,60.0,No,No,Electric,Poor,No,No,Yes,Yes,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510221302,105102213,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,No,No,Electric,Poor,No,No,Yes,Yes,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510221401,105102214,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,64.0,No,No,Electric,Poor,Yes,No,Yes,No,No,Yes,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510221402,105102214,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,76.0,No,No,Electric,Poor,Yes,No,Yes,No,No,Yes,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510221601,105102216,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,No,No,Liquefied Petroleum Gas,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510221602,105102216,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,60.0,No,No,Liquefied Petroleum Gas,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510222001,105102220,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Poor,Yes,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510222602,105102226,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,No,No,Electric,Poor,No,No,No,Yes,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510222602,105102226,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,No,No,Electric,Fair,Yes,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510223301,105102233,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,68.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510223301,105102233,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,68.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510223302,105102233,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,65.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510223302,105102233,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,65.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510223401,105102234,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,68.0,No,No,Electric,Fair,Yes,No,No,No,No,Yes,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510223401,105102234,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,68.0,No,No,Electric,Poor,Yes,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,10510210301,105102103,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,76.0,No,No,Liquefied Petroleum Gas,Good,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,10510210302,105102103,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,71.0,No,No,Liquefied Petroleum Gas,Good,Yes,No,Yes,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,10510210401,105102104,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,No,Water heater installed by the household,Liquefied Petroleum Gas,Good,Yes,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,10510210401,105102104,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,No,Water heater installed by the household,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,10510210402,105102104,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,60.0,No,Water heater installed by the household,Liquefied Petroleum Gas,Good,Yes,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,10510210402,105102104,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,60.0,No,Water heater installed by the household,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,10510211502,105102115,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,No,No,Natural Gas,Fair,Yes,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,10510212201,105102122,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,75.0,No,No,Crop residue/Wood burning,Good,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,10510212301,105102123,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,62.0,No,No,Liquefied Petroleum Gas,Good,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,10510212302,105102123,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,62.0,No,No,Liquefied Petroleum Gas,Good,No,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,1
+2011,10510212601,105102126,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,No,No,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,10510212801,105102128,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,72.0,No,No,Crop residue/Wood burning,Fair,Yes,No,No,No,No,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,10510213001,105102130,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,73.0,No,No,Crop residue/Wood burning,Fair,Yes,No,Yes,Yes,Yes,No,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,10510213401,105102134,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,62.0,No,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,Yes,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,10510213401,105102134,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,62.0,No,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,Yes,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,10510213402,105102134,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,60.0,No,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,Yes,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,10510213402,105102134,1051021,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,60.0,No,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,Yes,Outside public toilet without water,No,Paved road,Moved away by truck,0
+2011,10510230101,105102301,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,62.0,No,No,Electric,Poor,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10510230102,105102301,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,68.0,No,No,Electric,Poor,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10510230601,105102306,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,75.0,Yes,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10510231101,105102311,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,Yes,No,Liquefied Petroleum Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10510231201,105102312,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,89.0,No,No,Coal,Poor,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10510231301,105102313,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,65.0,No,No,Natural Gas,Fair,No,No,No,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10510231301,105102313,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,65.0,No,No,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10510231302,105102313,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,63.0,No,No,Natural Gas,Fair,No,No,No,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10510231302,105102313,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,63.0,No,No,Natural Gas,Good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10510231501,105102315,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,61.0,No,No,Electric,Poor,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10510231701,105102317,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,72.0,No,No,Electric,Poor,Yes,No,No,Yes,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10510232201,105102322,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,65.0,No,Water heater installed by the household,Electric,Poor,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,10510232701,105102327,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,64.0,No,No,Natural Gas,Very good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10510232701,105102327,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,64.0,No,No,Natural Gas,Very good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10510232702,105102327,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,63.0,No,No,Natural Gas,Very good,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2011,10510232702,105102327,1051023,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,63.0,No,No,Natural Gas,Very good,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,1
+2013,105102243001,1051022430,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,84.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2013,105102243001,1051022430,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,84.0,Yes,Water heater installed by the household,Natural Gas,Very good,No,No,Yes,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2013,105102243002,1051022430,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,78.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2013,105102243002,1051022430,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,78.0,Yes,Water heater installed by the household,Natural Gas,Very good,No,No,Yes,No,No,No,Outside public toilet without water,Yes,Paved road,Moved away by truck,1
+2013,105102248001,1051022480,1051022,ÄÚÃÉ¹Å×ÔÖÎÇø,ÐË°²ÃË,Urban,79.0,Yes,Water heater installed by the household,Electric,Very poor,Yes,No,No,No,No,Yes,Outside public toilet without water,Yes,Paved road,Moved away by truck,0
+2011,5405410401,54054104,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410401,54054104,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410401,54054104,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,69.0,Yes,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410402,54054104,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,62.0,Yes,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410402,54054104,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,62.0,Yes,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410402,54054104,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,62.0,Yes,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410601,54054106,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,60.0,Yes,No,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410601,54054106,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,60.0,Yes,No,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410601,54054106,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,60.0,Yes,No,Liquefied Petroleum Gas,Fair,Yes,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410601,54054106,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,60.0,Yes,No,Liquefied Petroleum Gas,Poor,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410601,54054106,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,60.0,Yes,No,Liquefied Petroleum Gas,Poor,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410601,54054106,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,60.0,Yes,No,Liquefied Petroleum Gas,Poor,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410702,54054107,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,71.0,No,No,Marsh gas,Poor,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410702,54054107,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,71.0,No,No,Marsh gas,Poor,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405410702,54054107,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,71.0,No,No,Marsh gas,Poor,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411001,54054110,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,60.0,No,No,Coal,Very good,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405411001,54054110,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,60.0,No,No,Coal,Very good,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405411001,54054110,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,60.0,No,No,Coal,Very good,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405411002,54054110,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,62.0,No,No,Coal,Very good,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405411002,54054110,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,62.0,No,No,Coal,Very good,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405411002,54054110,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,62.0,No,No,Coal,Very good,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405411201,54054112,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,67.0,No,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411201,54054112,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,67.0,No,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411201,54054112,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,67.0,No,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411202,54054112,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,71.0,No,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411202,54054112,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,71.0,No,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411202,54054112,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,71.0,No,No,Crop residue/Wood burning,Poor,No,No,Yes,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411701,54054117,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,64.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411701,54054117,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,64.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411701,54054117,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,64.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411702,54054117,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411702,54054117,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411702,54054117,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Electric,Fair,No,No,No,No,No,Yes,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411801,54054118,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,69.0,No,No,Electric,Fair,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411801,54054118,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,69.0,No,No,Electric,Fair,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411801,54054118,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,69.0,No,No,Electric,Fair,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411802,54054118,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,71.0,No,No,Electric,Fair,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411802,54054118,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,71.0,No,No,Electric,Fair,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405411802,54054118,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,71.0,No,No,Electric,Fair,No,No,No,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5405412201,54054122,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,68.0,No,No,Electric,Good,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405412201,54054122,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,68.0,No,No,Electric,Good,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405412201,54054122,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,68.0,No,No,Electric,Good,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405412202,54054122,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,62.0,No,No,Electric,Good,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405412202,54054122,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,62.0,No,No,Electric,Good,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2011,5405412202,54054122,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,62.0,No,No,Electric,Good,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,1
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125001,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,No,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2013,54054125002,540541250,540541,ËÄ´¨Ê¡,³É¶¼ÊÐ,Urban,65.0,Yes,Water heater installed by the household,Crop residue/Wood burning,Fair,No,No,Yes,No,No,No,Open-air,No,Paved road,Moved away by truck,0
+2011,5630210102,56302101,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,61.0,Yes,No,Natural Gas,Very poor,No,No,No,No,Yes,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630210102,56302101,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,61.0,Yes,No,Natural Gas,Very poor,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630210201,56302102,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630211001,56302110,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630211002,56302110,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,63.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630211101,56302111,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,67.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630211301,56302113,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,78.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,Yes,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630211302,56302113,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,80.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,Yes,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630212201,56302122,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,76.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630212202,56302122,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630212401,56302124,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630212401,56302124,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,Yes,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630212402,56302124,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,74.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630212402,56302124,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,74.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,Yes,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630212601,56302126,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630212602,56302126,563021,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Buried in this village,0
+2011,5630220201,56302202,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,60.0,Yes,No,Electric,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Burn away,0
+2011,5630220401,56302204,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,64.0,Yes,No,Natural Gas,Fair,Yes,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Burn away,0
+2011,5630220402,56302204,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,62.0,Yes,No,Natural Gas,Fair,Yes,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Burn away,0
+2011,5634620201,56346202,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,71.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634620202,56346202,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,69.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634620401,56346204,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,75.0,Yes,Water heater installed by the household,Electric,Fair,No,No,Yes,No,No,No,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634620501,56346205,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,60.0,Yes,Water heater installed by the household,Coal,Poor,No,No,No,Yes,No,No,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634620801,56346208,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,82.0,Yes,No,Crop residue/Wood burning,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634620801,56346208,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,82.0,Yes,No,Crop residue/Wood burning,Poor,No,No,Yes,Yes,No,Yes,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634620802,56346208,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,69.0,Yes,No,Crop residue/Wood burning,Fair,No,No,No,Yes,No,Yes,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634620802,56346208,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,69.0,Yes,No,Crop residue/Wood burning,Poor,No,No,Yes,Yes,No,Yes,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634620901,56346209,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,64.0,No,No,Coal,Good,No,No,No,No,No,No,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,1
+2011,5634620901,56346209,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,64.0,No,No,Coal,Poor,No,No,No,No,No,No,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634620902,56346209,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,63.0,No,No,Coal,Good,No,No,No,No,No,No,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,1
+2011,5634620902,56346209,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,63.0,No,No,Coal,Poor,No,No,No,No,No,No,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634621201,56346212,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,63.0,Yes,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,Yes,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634621202,56346212,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,61.0,Yes,No,Crop residue/Wood burning,Poor,Yes,No,Yes,No,No,Yes,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634621402,56346214,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,66.0,No,Water heater installed by the household,Coal,Poor,Yes,No,No,No,No,No,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,0
+2011,5634621501,56346215,563462,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,66.0,Yes,Water heater installed by the household,Coal,Very good,No,No,No,No,No,No,Inside toilet with water,No,Pathway/Dirt/unpaved road,Buried in this village,1
+2011,5634630101,56346301,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,73.0,Yes,Water heater installed by the household,Natural Gas,Very poor,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634630901,56346309,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634630901,56346309,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634630902,56346309,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634630902,56346309,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634631301,56346313,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634631301,56346313,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,64.0,Yes,Water heater installed by the household,Natural Gas,Very poor,Yes,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634631302,56346313,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634631302,56346313,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Very poor,Yes,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634631701,56346317,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634631702,56346317,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,70.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634632201,56346322,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,65.0,Yes,Water heater installed by the household,Natural Gas,Poor,No,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634632301,56346323,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634632301,56346323,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,60.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,No,No,No,Yes,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634632501,56346325,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,67.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634632502,56346325,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,62.0,Yes,Water heater installed by the household,Natural Gas,Fair,Yes,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2011,5634632702,56346327,563463,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,73.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Moved away by truck,0
+2013,56302220001,563022200,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,62.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,Yes,No,No,Inside toilet with water,Yes,Paved road,Burn away,0
+2013,56302220001,563022200,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,62.0,Yes,Water heater installed by the household,Liquefied Petroleum Gas,Fair,No,No,Yes,Yes,No,No,Inside toilet with water,Yes,Paved road,Burn away,0
+2013,56302221001,563022210,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Burn away,0
+2013,56302221001,563022210,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,75.0,Yes,Water heater installed by the household,Natural Gas,Poor,Yes,No,No,No,No,No,Inside toilet with water,Yes,Paved road,Burn away,0
+2013,56302225001,563022250,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,88.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Burn away,0
+2013,56302225001,563022250,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,88.0,Yes,Water heater installed by the household,Natural Gas,Fair,No,No,Yes,No,No,No,Inside toilet with water,Yes,Paved road,Burn away,0
+2015,56302219001,563022190,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,60.0,Yes,No,Coal,Fair,Yes,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Burn away,0
+2015,56302219001,563022190,563022,ËÄ´¨Ê¡,ÒË±öÊÐ,Urban,60.0,Yes,No,Coal,Fair,Yes,No,Yes,No,No,Yes,Inside toilet with water,Yes,Paved road,Burn away,0
