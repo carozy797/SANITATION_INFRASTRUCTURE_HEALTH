@@ -6,5 +6,5 @@ The dataset used is the CHARLS dataset in China Database.
 
 **Challenge**
 
-Dataset has many missing values due to soe households not answering the survey sen to them.
+Dataset has many missing values due to some households not answering the survey sent to them.
 
